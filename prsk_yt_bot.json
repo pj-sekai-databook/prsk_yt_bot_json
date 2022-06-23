@@ -1,14 +1,25 @@
 {
-    "date": "2022-06-23T08:50:17.795Z",
+    "date": "2022-06-23T09:00:15.867Z",
     "contents": [
+        {
+            "id": "8E-FT9_z2DM",
+            "link": "https://youtu.be/8E-FT9_z2DM",
+            "title": "『未完成讃歌』（難易度：HARD）プレイ動画を公開",
+            "date": "2022-06-23T08:59:59Z",
+            "like": "0",
+            "view": "1",
+            "comment": "0",
+            "listType": 0,
+            "lastPostedView": "1"
+        },
         {
             "id": "_oe2F3tgKIk",
             "link": "https://youtu.be/_oe2F3tgKIk",
             "title": "ぼうけんのしょがきえました！[Long ver.] / ワンダーランズ×ショウタイム × 鏡音リン × 鏡音レン",
             "date": "2022-06-21T05:36:11Z",
-            "like": "6920",
+            "like": "7194",
             "view": "0",
-            "comment": "311",
+            "comment": "317",
             "listType": 0,
             "lastPostedView": 0
         },
@@ -17,8 +28,8 @@
             "link": "https://youtu.be/8q-iWdjIbB0",
             "title": "『ヴァンパイア』3DMVゲームサイズ公開！",
             "date": "2022-06-20T06:00:04Z",
-            "like": "32719",
-            "view": "564504",
+            "like": "32746",
+            "view": "565384",
             "comment": "1110",
             "listType": 0,
             "lastPostedView": 560068
@@ -28,8 +39,8 @@
             "link": "https://youtu.be/uzx9vxakgJA",
             "title": "『ヴァンパイア』（難易度：HARD）プレイ動画を公開",
             "date": "2022-06-19T09:00:32Z",
-            "like": "21980",
-            "view": "452719",
+            "like": "21983",
+            "view": "452802",
             "comment": "904",
             "listType": 0,
             "lastPostedView": 450002
@@ -39,8 +50,8 @@
             "link": "https://youtu.be/jHcKgJChx2g",
             "title": "プロセカアフタートーク 迷い子の手を引く、そのさきは編",
             "date": "2022-06-18T13:21:38Z",
-            "like": "4419",
-            "view": "100065",
+            "like": "4420",
+            "view": "100085",
             "comment": "52",
             "listType": 0,
             "lastPostedView": 100003
@@ -50,9 +61,9 @@
             "link": "https://youtu.be/2Ii7UBMxWVw",
             "title": "バグ / 25時、ナイトコードで。 × 鏡音レン",
             "date": "2022-06-18T12:15:11Z",
-            "like": "134515",
-            "view": "2245015",
-            "comment": "3879",
+            "like": "134566",
+            "view": "2247853",
+            "comment": "3880",
             "listType": 0,
             "lastPostedView": 2240486
         },
@@ -62,10 +73,32 @@
             "title": "プロジェクトセカイ WEBラジオ『セカイ・ステーション』#10",
             "date": "2022-06-17T11:00:13Z",
             "like": "1125",
-            "view": "20926",
+            "view": "20931",
             "comment": "26",
             "listType": 0,
             "lastPostedView": 20002
+        },
+        {
+            "id": "Q8GxVOKon2s",
+            "link": "https://youtu.be/Q8GxVOKon2s",
+            "title": "プロセカアフタートーク 絶体絶命！？アイランドパニック！編",
+            "date": "2022-06-17T09:45:01Z",
+            "like": "242",
+            "view": "0",
+            "comment": "0",
+            "listType": 0,
+            "lastPostedView": "0"
+        },
+        {
+            "id": "1Fa6dFPQAco",
+            "link": "https://youtu.be/1Fa6dFPQAco",
+            "title": "プロジェクトセカイ ワンダショちゃんねる #21",
+            "date": "2022-06-14T12:38:35Z",
+            "like": "1273",
+            "view": "0",
+            "comment": "0",
+            "listType": 0,
+            "lastPostedView": "0"
         },
         {
             "id": "busVfMziDLU",
@@ -73,7 +106,7 @@
             "title": "『グッバイ宣言』（難易度：HARD）プレイ動画を公開",
             "date": "2022-06-12T09:00:15Z",
             "like": "22966",
-            "view": "480448",
+            "view": "480467",
             "comment": "1281",
             "listType": 0,
             "lastPostedView": 480003
@@ -84,7 +117,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#43",
             "date": "2022-06-11T16:00:12Z",
             "like": "2833",
-            "view": "61844",
+            "view": "61854",
             "comment": "78",
             "listType": 0,
             "lastPostedView": 60008
@@ -95,7 +128,7 @@
             "title": "コネクトライブ 前日譚ストーリー Vivid BAD SQUAD編",
             "date": "2022-06-10T09:00:33Z",
             "like": "2203",
-            "view": "28328",
+            "view": "28332",
             "comment": "64",
             "listType": 0,
             "lastPostedView": 20000
@@ -106,7 +139,7 @@
             "title": "『バグ』（難易度：HARD）プレイ動画を公開",
             "date": "2022-06-10T06:00:03Z",
             "like": "11286",
-            "view": "301566",
+            "view": "301575",
             "comment": "336",
             "listType": 0,
             "lastPostedView": 300003
@@ -117,7 +150,7 @@
             "title": "心拍数♯0822 / Leo/need × 初音ミク",
             "date": "2022-06-09T09:00:52Z",
             "like": "27397",
-            "view": "482541",
+            "view": "482655",
             "comment": "559",
             "listType": 0,
             "lastPostedView": 480057
@@ -128,7 +161,7 @@
             "title": "『阿吽のビーツ』（難易度：HARD）プレイ動画を公開",
             "date": "2022-06-05T09:00:34Z",
             "like": "16533",
-            "view": "312872",
+            "view": "312886",
             "comment": "675",
             "listType": 0,
             "lastPostedView": 310002
@@ -139,7 +172,7 @@
             "title": "プロジェクトセカイ WEBラジオ『セカイ・ステーション』#09",
             "date": "2022-06-03T11:00:15Z",
             "like": "1264",
-            "view": "27251",
+            "view": "27252",
             "comment": "41",
             "listType": 0,
             "lastPostedView": 20001
@@ -149,8 +182,8 @@
             "link": "https://youtu.be/BUyrhLRzAwU",
             "title": "Awake Now / Vivid BAD SQUAD × 初音ミク",
             "date": "2022-05-31T09:00:13Z",
-            "like": "54187",
-            "view": "1476248",
+            "like": "54191",
+            "view": "1476709",
             "comment": "1229",
             "listType": 0,
             "lastPostedView": 1470139
@@ -161,7 +194,7 @@
             "title": "『Awake Now』（難易度：HARD）プレイ動画を公開",
             "date": "2022-05-31T07:53:58Z",
             "like": "2939",
-            "view": "66147",
+            "view": "66148",
             "comment": "113",
             "listType": 0,
             "lastPostedView": 60003
@@ -171,8 +204,8 @@
             "link": "https://youtu.be/cb1s5_U0wd0",
             "title": "『神のまにまに』3DMVゲームサイズ公開！",
             "date": "2022-05-30T06:06:24Z",
-            "like": "53899",
-            "view": "1388316",
+            "like": "53903",
+            "view": "1388470",
             "comment": "1595",
             "listType": 0,
             "lastPostedView": 1380114
@@ -183,7 +216,7 @@
             "title": "プロセカアフタートーク THE POWER OF UNITY編",
             "date": "2022-05-29T13:26:54Z",
             "like": "4351",
-            "view": "90518",
+            "view": "90520",
             "comment": "33",
             "listType": 0,
             "lastPostedView": 90000
@@ -193,8 +226,8 @@
             "link": "https://youtu.be/E5Wu8Ir6kdQ",
             "title": "月光 / Vivid BAD SQUAD × MEIKO",
             "date": "2022-05-29T12:15:39Z",
-            "like": "69235",
-            "view": "1963615",
+            "like": "69239",
+            "view": "1964058",
             "comment": "1484",
             "listType": 0,
             "lastPostedView": 1960263
@@ -205,7 +238,7 @@
             "title": "『神のまにまに』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-05-29T09:00:01Z",
             "like": "21275",
-            "view": "407457",
+            "view": "407460",
             "comment": "1084",
             "listType": 0,
             "lastPostedView": 400003
@@ -216,7 +249,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#42",
             "date": "2022-05-28T16:00:14Z",
             "like": "3606",
-            "view": "85204",
+            "view": "85208",
             "comment": "72",
             "listType": 0,
             "lastPostedView": 80005
@@ -227,7 +260,7 @@
             "title": "プロジェクトセカイ ワンダショちゃんねる #20",
             "date": "2022-05-25T12:49:18Z",
             "like": "18032",
-            "view": "592518",
+            "view": "592534",
             "comment": "408",
             "listType": 0,
             "lastPostedView": 590002
@@ -237,8 +270,8 @@
             "link": "https://youtu.be/xBVIHNosBTg",
             "title": "ミルククラウン・オン・ソーネチカ / MORE MORE JUMP！ × 初音ミク",
             "date": "2022-05-24T09:00:56Z",
-            "like": "49791",
-            "view": "999624",
+            "like": "49793",
+            "view": "999817",
             "comment": "1061",
             "listType": 0,
             "lastPostedView": 990022
@@ -249,7 +282,7 @@
             "title": "『アサガオの散る頃に』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-05-22T09:00:21Z",
             "like": "9124",
-            "view": "192805",
+            "view": "192806",
             "comment": "358",
             "listType": 0,
             "lastPostedView": 190000
@@ -260,7 +293,7 @@
             "title": "プロジェクトセカイ WEBラジオ『セカイ・ステーション』#08",
             "date": "2022-05-20T11:00:17Z",
             "like": "915",
-            "view": "20059",
+            "view": "20060",
             "comment": "44",
             "listType": 0,
             "lastPostedView": 20000
@@ -271,7 +304,7 @@
             "title": "『月光』（難易度：HARD）プレイ動画を公開",
             "date": "2022-05-20T06:03:14Z",
             "like": "6504",
-            "view": "169601",
+            "view": "169603",
             "comment": "340",
             "listType": 0,
             "lastPostedView": 160012
@@ -282,7 +315,7 @@
             "title": "『リモコン』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-05-15T09:00:50Z",
             "like": "12175",
-            "view": "275447",
+            "view": "275452",
             "comment": "489",
             "listType": 0,
             "lastPostedView": 270000
@@ -293,7 +326,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#41",
             "date": "2022-05-14T16:00:13Z",
             "like": "3315",
-            "view": "64318",
+            "view": "64321",
             "comment": "100",
             "listType": 0,
             "lastPostedView": 60001
@@ -304,7 +337,7 @@
             "title": "『妄想感傷代償連盟』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-05-12T09:00:52Z",
             "like": "16606",
-            "view": "331784",
+            "view": "331786",
             "comment": "834",
             "listType": 0,
             "lastPostedView": 330001
@@ -315,7 +348,7 @@
             "title": "『ブラック★ロックシューター』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-05-09T09:00:17Z",
             "like": "10569",
-            "view": "257840",
+            "view": "257841",
             "comment": "548",
             "listType": 0,
             "lastPostedView": 250000
@@ -326,7 +359,7 @@
             "title": "プロセカアフタートーク つなぐPainful Hope編",
             "date": "2022-05-08T13:22:07Z",
             "like": "2883",
-            "view": "76595",
+            "view": "76599",
             "comment": "33",
             "listType": 0,
             "lastPostedView": 70000
@@ -337,10 +370,10 @@
             "title": "『イフ』3DMVゲームサイズ公開！",
             "date": "2022-05-08T13:10:24Z",
             "like": "26996",
-            "view": "1009985",
+            "view": "1010122",
             "comment": "876",
             "listType": 0,
-            "lastPostedView": 1000020
+            "lastPostedView": 1010122
         },
         {
             "id": "wwSzDFVh5sc",
@@ -348,7 +381,7 @@
             "title": "『イフ』（難易度：HARD）プレイ動画を公開",
             "date": "2022-05-08T13:10:10Z",
             "like": "3238",
-            "view": "77220",
+            "view": "77224",
             "comment": "102",
             "listType": 0,
             "lastPostedView": 70003
@@ -359,7 +392,7 @@
             "title": "【第2回】MORE MORE JUMP！生配信",
             "date": "2022-05-07T12:06:38Z",
             "like": "8861",
-            "view": "165535",
+            "view": "165537",
             "comment": "155",
             "listType": 0,
             "lastPostedView": 160000
@@ -381,7 +414,7 @@
             "title": "『サラマンダー』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-05-04T09:00:32Z",
             "like": "12881",
-            "view": "299826",
+            "view": "299828",
             "comment": "472",
             "listType": 0,
             "lastPostedView": 290002
@@ -392,7 +425,7 @@
             "title": "『徳川カップヌードル禁止令』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-05-03T09:00:08Z",
             "like": "15793",
-            "view": "414971",
+            "view": "414976",
             "comment": "862",
             "listType": 0,
             "lastPostedView": 410005
@@ -403,7 +436,7 @@
             "title": "『コスモスパイス』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-05-02T09:00:33Z",
             "like": "10495",
-            "view": "243372",
+            "view": "243374",
             "comment": "335",
             "listType": 0,
             "lastPostedView": 240000
@@ -425,7 +458,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#40",
             "date": "2022-04-30T16:00:10Z",
             "like": "2831",
-            "view": "81030",
+            "view": "81033",
             "comment": "449",
             "listType": 0,
             "lastPostedView": 80006
@@ -436,7 +469,7 @@
             "title": "プロジェクトセカイ Championship 2022 Spring",
             "date": "2022-04-30T13:59:22Z",
             "like": "23905",
-            "view": "896371",
+            "view": "896381",
             "comment": "310",
             "listType": 0,
             "lastPostedView": 890008
@@ -447,7 +480,7 @@
             "title": "『アイデンティティ』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-04-30T09:00:07Z",
             "like": "17354",
-            "view": "381308",
+            "view": "381310",
             "comment": "638",
             "listType": 0,
             "lastPostedView": 380001
@@ -458,7 +491,7 @@
             "title": "プロセカアフタートーク Live with memories編",
             "date": "2022-04-28T13:24:04Z",
             "like": "2185",
-            "view": "53663",
+            "view": "53664",
             "comment": "29",
             "listType": 0,
             "lastPostedView": 50000
@@ -469,7 +502,7 @@
             "title": "『オーダーメイド』3DMVゲームサイズ公開！",
             "date": "2022-04-28T13:09:14Z",
             "like": "16363",
-            "view": "463094",
+            "view": "463131",
             "comment": "592",
             "listType": 0,
             "lastPostedView": 460011
@@ -480,7 +513,7 @@
             "title": "『オーダーメイド』（難易度：HARD）プレイ動画を公開",
             "date": "2022-04-28T13:08:04Z",
             "like": "3024",
-            "view": "77376",
+            "view": "77380",
             "comment": "91",
             "listType": 0,
             "lastPostedView": 70000
@@ -490,8 +523,8 @@
             "link": "https://youtu.be/I36IQ3cEPAo",
             "title": "威風堂々 / Vivid BAD SQUAD × KAITO",
             "date": "2022-04-26T09:00:09Z",
-            "like": "92880",
-            "view": "1564627",
+            "like": "92883",
+            "view": "1564719",
             "comment": "2677",
             "listType": 0,
             "lastPostedView": 1560036
@@ -502,7 +535,7 @@
             "title": "『ダーリンダンス』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-04-24T09:00:00Z",
             "like": "19131",
-            "view": "416734",
+            "view": "416736",
             "comment": "1246",
             "listType": 0,
             "lastPostedView": 410003
@@ -513,7 +546,7 @@
             "title": "プロジェクトセカイ WEBラジオ『セカイ・ステーション』#06",
             "date": "2022-04-22T11:00:11Z",
             "like": "1608",
-            "view": "31423",
+            "view": "31424",
             "comment": "26",
             "listType": 0,
             "lastPostedView": 30000
@@ -523,8 +556,8 @@
             "link": "https://youtu.be/gUSAG6_rHqQ",
             "title": "プロジェクトセカイ ワンダショちゃんねる #19",
             "date": "2022-04-21T12:22:30Z",
-            "like": "15566",
-            "view": "443670",
+            "like": "15567",
+            "view": "443674",
             "comment": "250",
             "listType": 0,
             "lastPostedView": 440004
@@ -535,7 +568,7 @@
             "title": "プロセカアフタートーク まばゆい光のステージで編",
             "date": "2022-04-19T13:26:14Z",
             "like": "6463",
-            "view": "117699",
+            "view": "117700",
             "comment": "58",
             "listType": 0,
             "lastPostedView": 110003
@@ -546,7 +579,7 @@
             "title": "88☆彡 / ワンダーランズ×ショウタイム × KAITO",
             "date": "2022-04-19T12:15:24Z",
             "like": "92099",
-            "view": "2914264",
+            "view": "2914579",
             "comment": "2428",
             "listType": 0,
             "lastPostedView": 2910144
@@ -557,7 +590,7 @@
             "title": "『PaⅢ.SENSATION』3DMVゲームサイズ公開！",
             "date": "2022-04-18T06:00:12Z",
             "like": "31624",
-            "view": "1246493",
+            "view": "1246591",
             "comment": "753",
             "listType": 0,
             "lastPostedView": 1240034
@@ -590,7 +623,7 @@
             "title": "『ONESELF』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-04-14T09:00:19Z",
             "like": "6621",
-            "view": "155462",
+            "view": "155463",
             "comment": "206",
             "listType": 0,
             "lastPostedView": 150000
@@ -601,7 +634,7 @@
             "title": "ビビバスアーカイブ『ジャンキーナイトタウンオーケストラ』/ 小豆沢こはね&青柳冬弥",
             "date": "2022-04-13T09:00:28Z",
             "like": "31300",
-            "view": "432566",
+            "view": "432577",
             "comment": "905",
             "listType": 0,
             "lastPostedView": 430023
@@ -633,8 +666,8 @@
             "link": "https://youtu.be/t5c8D1xbXtw",
             "title": "心予報 / MORE MORE JUMP！ × 初音ミク",
             "date": "2022-04-07T09:00:10Z",
-            "like": "45425",
-            "view": "1309155",
+            "like": "45427",
+            "view": "1309248",
             "comment": "927",
             "listType": 0,
             "lastPostedView": 1300006
@@ -645,7 +678,7 @@
             "title": "『千年の独奏歌』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-04-03T09:02:29Z",
             "like": "6948",
-            "view": "176939",
+            "view": "176940",
             "comment": "306",
             "listType": 0,
             "lastPostedView": 170000
@@ -656,7 +689,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#38",
             "date": "2022-04-02T16:00:14Z",
             "like": "4400",
-            "view": "106680",
+            "view": "106682",
             "comment": "134",
             "listType": 0,
             "lastPostedView": 100000
@@ -667,7 +700,7 @@
             "title": "『ピアノ×フォルテ×スキャンダル』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-04-02T09:00:12Z",
             "like": "7523",
-            "view": "174869",
+            "view": "174870",
             "comment": "312",
             "listType": 0,
             "lastPostedView": 170000
@@ -689,7 +722,7 @@
             "title": "『砂の惑星』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-03-31T09:02:47Z",
             "like": "11584",
-            "view": "256900",
+            "view": "256901",
             "comment": "570",
             "listType": 0,
             "lastPostedView": 250000
@@ -711,7 +744,7 @@
             "title": "『マトリョシカ』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-03-29T09:01:28Z",
             "like": "16596",
-            "view": "370599",
+            "view": "370600",
             "comment": "805",
             "listType": 0,
             "lastPostedView": 370000
@@ -744,7 +777,7 @@
             "title": "『ノマド』3DMVゲームサイズ公開！",
             "date": "2022-03-28T13:17:17Z",
             "like": "34110",
-            "view": "1099651",
+            "view": "1099698",
             "comment": "1141",
             "listType": 0,
             "lastPostedView": 1090007
@@ -765,8 +798,8 @@
             "link": "https://youtu.be/oiMN9IBizJU",
             "title": "プロジェクトセカイ ワンダショちゃんねる 1.5周年スペシャル",
             "date": "2022-03-24T12:49:22Z",
-            "like": "21592",
-            "view": "656366",
+            "like": "21593",
+            "view": "656373",
             "comment": "363",
             "listType": 0,
             "lastPostedView": 650002
@@ -776,8 +809,8 @@
             "link": "https://youtu.be/xtLPqIeA07I",
             "title": "「プロジェクトセカイ COLORFUL LIVE 1st - Link -」ライブ映像『群青讃歌』を公開！",
             "date": "2022-03-24T12:36:56Z",
-            "like": "43844",
-            "view": "766299",
+            "like": "43849",
+            "view": "766345",
             "comment": "1339",
             "listType": 0,
             "lastPostedView": 760004
@@ -788,7 +821,7 @@
             "title": "『雨とペトラ』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-03-21T09:00:08Z",
             "like": "14874",
-            "view": "323355",
+            "view": "323356",
             "comment": "513",
             "listType": 0,
             "lastPostedView": 320000
@@ -810,7 +843,7 @@
             "title": "プロセカアフタートーク Cast Spell on You編",
             "date": "2022-03-18T13:47:06Z",
             "like": "2745",
-            "view": "68851",
+            "view": "68852",
             "comment": "16",
             "listType": 0,
             "lastPostedView": 64967
@@ -821,7 +854,7 @@
             "title": "メタモリボン / MORE MORE JUMP！ × 鏡音リン",
             "date": "2022-03-18T12:15:13Z",
             "like": "33350",
-            "view": "1306149",
+            "view": "1306229",
             "comment": "796",
             "listType": 0,
             "lastPostedView": 1300009
@@ -831,8 +864,8 @@
             "link": "https://youtu.be/cun0qkWu8Lg",
             "title": "ぷちセカ#10「カップラーメン回」",
             "date": "2022-03-17T10:00:32Z",
-            "like": "54065",
-            "view": "1091119",
+            "like": "54066",
+            "view": "1091190",
             "comment": "1655",
             "listType": 0,
             "lastPostedView": 1090011
@@ -842,8 +875,8 @@
             "link": "https://youtu.be/fKLq0sFnF2c",
             "title": "ぷちセカ#06「レオニードスタイル」",
             "date": "2022-03-15T10:00:21Z",
-            "like": "32568",
-            "view": "653923",
+            "like": "32570",
+            "view": "653983",
             "comment": "1304",
             "listType": 0,
             "lastPostedView": 650004
@@ -853,8 +886,8 @@
             "link": "https://youtu.be/eLIUBridZsw",
             "title": "ニジイロストーリーズ / ワンダーランズ×ショウタイム × MEIKO × KAITO",
             "date": "2022-03-14T09:00:14Z",
-            "like": "26204",
-            "view": "519755",
+            "like": "26205",
+            "view": "519776",
             "comment": "2539",
             "listType": 0,
             "lastPostedView": 510002
@@ -864,8 +897,8 @@
             "link": "https://youtu.be/v_VDb-gxF5Y",
             "title": "『いーあるふぁんくらぶ』3DMVゲームサイズ公開！",
             "date": "2022-03-14T06:01:20Z",
-            "like": "67707",
-            "view": "2882501",
+            "like": "67708",
+            "view": "2882631",
             "comment": "2100",
             "listType": 0,
             "lastPostedView": 2880042
@@ -886,8 +919,8 @@
             "link": "https://youtu.be/babaG-xuBQM",
             "title": "サラマンダー / 東雲彰人 & 東雲絵名 × 初音ミク",
             "date": "2022-03-12T09:00:13Z",
-            "like": "117996",
-            "view": "4360675",
+            "like": "117997",
+            "view": "4360875",
             "comment": "2706",
             "listType": 0,
             "lastPostedView": 4360004
@@ -898,7 +931,7 @@
             "title": "プロジェクトセカイ WEBラジオ『セカイ・ステーション』#03",
             "date": "2022-03-11T11:00:17Z",
             "like": "2019",
-            "view": "43515",
+            "view": "43517",
             "comment": "49",
             "listType": 0,
             "lastPostedView": 40000
@@ -919,8 +952,8 @@
             "link": "https://youtu.be/PInLiQh8ttQ",
             "title": "ぷちセカ#09「噂のパンケーキ」",
             "date": "2022-03-10T10:00:12Z",
-            "like": "47377",
-            "view": "911054",
+            "like": "47378",
+            "view": "911089",
             "comment": "1321",
             "listType": 0,
             "lastPostedView": 910017
@@ -931,7 +964,7 @@
             "title": "プロジェクトセカイ ミクの日&もうすぐ1.5周年生放送",
             "date": "2022-03-09T12:14:09Z",
             "like": "15923",
-            "view": "398968",
+            "view": "398970",
             "comment": "212",
             "listType": 0,
             "lastPostedView": 392201
@@ -942,7 +975,7 @@
             "title": "『Miku』3DMVゲームサイズ公開！",
             "date": "2022-03-09T12:01:14Z",
             "like": "24662",
-            "view": "535848",
+            "view": "535857",
             "comment": "786",
             "listType": 0,
             "lastPostedView": 530001
@@ -953,7 +986,7 @@
             "title": "『Miku』（難易度：HARD）プレイ動画を一部公開",
             "date": "2022-03-09T12:00:23Z",
             "like": "5282",
-            "view": "107807",
+            "view": "107809",
             "comment": "305",
             "listType": 0,
             "lastPostedView": 103963
@@ -974,8 +1007,8 @@
             "link": "https://youtu.be/eb46opRRyLc",
             "title": "僕らまだアンダーグラウンド / Leo/need × 初音ミク",
             "date": "2022-03-04T09:00:13Z",
-            "like": "38917",
-            "view": "1423500",
+            "like": "38918",
+            "view": "1423561",
             "comment": "877",
             "listType": 0,
             "lastPostedView": 1420000
@@ -985,8 +1018,8 @@
             "link": "https://youtu.be/VD8VsfP0a1s",
             "title": "ぷちセカ#08「バズれ！ モモジャン！」",
             "date": "2022-03-03T10:00:46Z",
-            "like": "34135",
-            "view": "688230",
+            "like": "34136",
+            "view": "688260",
             "comment": "1002",
             "listType": 0,
             "lastPostedView": 680005
@@ -1019,7 +1052,7 @@
             "title": "Peaky Peaky / バーチャル・シンガー（初音ミク＆鏡音リン）",
             "date": "2022-02-27T10:00:11Z",
             "like": "26077",
-            "view": "520434",
+            "view": "520446",
             "comment": "385",
             "listType": 0,
             "lastPostedView": 520005
@@ -1041,7 +1074,7 @@
             "title": "Peaky Peaky/Leo/need × KAITO",
             "date": "2022-02-26T12:15:59Z",
             "like": "40347",
-            "view": "1598559",
+            "view": "1598624",
             "comment": "971",
             "listType": 0,
             "lastPostedView": 1590025
@@ -1052,7 +1085,7 @@
             "title": "プロジェクトセカイ WEBラジオ『セカイ・ステーション』#02",
             "date": "2022-02-25T11:00:13Z",
             "like": "1673",
-            "view": "35314",
+            "view": "35315",
             "comment": "51",
             "listType": 0,
             "lastPostedView": 32833
@@ -1063,7 +1096,7 @@
             "title": "ぷちセカ#07「時空を超えてわんだほーい！」",
             "date": "2022-02-24T10:00:10Z",
             "like": "49280",
-            "view": "982542",
+            "view": "982586",
             "comment": "1612",
             "listType": 0,
             "lastPostedView": 980013
@@ -1074,7 +1107,7 @@
             "title": "ナンセンス文学 / ワンダーランズ×ショウタイム × 鏡音レン",
             "date": "2022-02-24T09:00:15Z",
             "like": "56786",
-            "view": "1843191",
+            "view": "1843254",
             "comment": "1295",
             "listType": 0,
             "lastPostedView": 1840020
@@ -1096,7 +1129,7 @@
             "title": "『ジウダス』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-02-20T09:00:12Z",
             "like": "9132",
-            "view": "196119",
+            "view": "196120",
             "comment": "324",
             "listType": 0,
             "lastPostedView": 193423
@@ -1129,7 +1162,7 @@
             "title": "プロセカアフタートーク Legend still vivid編",
             "date": "2022-02-16T13:30:00Z",
             "like": "3369",
-            "view": "101005",
+            "view": "101006",
             "comment": "47",
             "listType": 0,
             "lastPostedView": 100000
@@ -1150,8 +1183,8 @@
             "link": "https://youtu.be/5fQRNjyRuSY",
             "title": "『Flyer!』3DMVゲームサイズ公開！",
             "date": "2022-02-16T13:06:57Z",
-            "like": "57935",
-            "view": "3649344",
+            "like": "57937",
+            "view": "3649528",
             "comment": "1872",
             "listType": 0,
             "lastPostedView": 3640042
@@ -1162,7 +1195,7 @@
             "title": "プロジェクトセカイ ワンダショちゃんねる #17",
             "date": "2022-02-16T11:26:21Z",
             "like": "13267",
-            "view": "436519",
+            "view": "436522",
             "comment": "118",
             "listType": 0,
             "lastPostedView": 430002
@@ -1172,8 +1205,8 @@
             "link": "https://youtu.be/jPXAgWkqbo4",
             "title": "徳川カップヌードル禁止令 / 草薙寧々 & ネネロボ × ミクダヨー & 鏡音レン & KAITO",
             "date": "2022-02-16T09:00:09Z",
-            "like": "173192",
-            "view": "5283963",
+            "like": "173197",
+            "view": "5284299",
             "comment": "7935",
             "listType": 0,
             "lastPostedView": 5280057
@@ -1184,7 +1217,7 @@
             "title": "どりーみんチュチュ/MORE MORE JUMP！ × 巡音ルカ",
             "date": "2022-02-14T09:00:13Z",
             "like": "44535",
-            "view": "1046850",
+            "view": "1046899",
             "comment": "1194",
             "listType": 0,
             "lastPostedView": 1040030
@@ -1195,7 +1228,7 @@
             "title": "プロジェクトセカイ WEBラジオ『セカイ・ステーション』#01",
             "date": "2022-02-11T11:00:15Z",
             "like": "4041",
-            "view": "80582",
+            "view": "80583",
             "comment": "141",
             "listType": 0,
             "lastPostedView": 80000
@@ -1205,8 +1238,8 @@
             "link": "https://youtu.be/zWX62wtKofk",
             "title": "ぷちセカ#05「25時やめない？」",
             "date": "2022-02-10T10:00:13Z",
-            "like": "89092",
-            "view": "1949159",
+            "like": "89096",
+            "view": "1949280",
             "comment": "2513",
             "listType": 0,
             "lastPostedView": 1940076
@@ -1216,8 +1249,8 @@
             "link": "https://youtu.be/DsFlCC96EgU",
             "title": "『愛して愛して愛して』3DMVゲームサイズ公開！",
             "date": "2022-02-07T06:00:08Z",
-            "like": "47464",
-            "view": "1822302",
+            "like": "47466",
+            "view": "1822373",
             "comment": "1537",
             "listType": 0,
             "lastPostedView": 1820026
@@ -1228,7 +1261,7 @@
             "title": "『愛して愛して愛して』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-02-06T09:30:01Z",
             "like": "22634",
-            "view": "421434",
+            "view": "421436",
             "comment": "1488",
             "listType": 0,
             "lastPostedView": 420000
@@ -1239,7 +1272,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#34",
             "date": "2022-02-05T16:00:13Z",
             "like": "6271",
-            "view": "154508",
+            "view": "154510",
             "comment": "171",
             "listType": 0,
             "lastPostedView": 150000
@@ -1250,7 +1283,7 @@
             "title": "『君色マリンスノウ』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-02-04T09:00:13Z",
             "like": "9250",
-            "view": "250868",
+            "view": "250869",
             "comment": "689",
             "listType": 0,
             "lastPostedView": 250000
@@ -1260,8 +1293,8 @@
             "link": "https://youtu.be/Nt7J3Ok9yCA",
             "title": "ぷちセカ#04「こはね寿鳥糸ＤＥＢＵＴ！」",
             "date": "2022-02-03T10:00:13Z",
-            "like": "63537",
-            "view": "1411104",
+            "like": "63540",
+            "view": "1411158",
             "comment": "2044",
             "listType": 0,
             "lastPostedView": 1410003
@@ -1272,7 +1305,7 @@
             "title": "『踊』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2022-02-03T09:01:19Z",
             "like": "17607",
-            "view": "417150",
+            "view": "417151",
             "comment": "637",
             "listType": 0,
             "lastPostedView": 410000
@@ -1282,8 +1315,8 @@
             "link": "https://youtu.be/0qb27SBWZ38",
             "title": "コスモスパイス / 天馬咲希 & 天馬司 × 初音ミク",
             "date": "2022-02-01T10:00:15Z",
-            "like": "78661",
-            "view": "2692555",
+            "like": "78662",
+            "view": "2692637",
             "comment": "2378",
             "listType": 0,
             "lastPostedView": 2690005
@@ -1305,7 +1338,7 @@
             "title": "プロセカアフタートーク いつか、絶望の底から編",
             "date": "2022-01-29T13:24:42Z",
             "like": "3854",
-            "view": "106849",
+            "view": "106850",
             "comment": "30",
             "listType": 0,
             "lastPostedView": 100470
@@ -1315,8 +1348,8 @@
             "link": "https://youtu.be/M_ijFuoASt0",
             "title": "トリコロージュ/25時、ナイトコードで。 × 初音ミク",
             "date": "2022-01-29T12:15:13Z",
-            "like": "78175",
-            "view": "4608010",
+            "like": "78179",
+            "view": "4608213",
             "comment": "1839",
             "listType": 0,
             "lastPostedView": 4600090
@@ -1327,7 +1360,7 @@
             "title": "ぷちセカ#03「アイドルの才能」",
             "date": "2022-01-27T10:00:13Z",
             "like": "47873",
-            "view": "1016283",
+            "view": "1016307",
             "comment": "1575",
             "listType": 0,
             "lastPostedView": 1010009
@@ -1338,7 +1371,7 @@
             "title": "チュルリラ・チュルリラ・ダッダッダ！/ワンダーランズ×ショウタイム",
             "date": "2022-01-26T09:00:11Z",
             "like": "71214",
-            "view": "2042348",
+            "view": "2042413",
             "comment": "1737",
             "listType": 0,
             "lastPostedView": 2040005
@@ -1349,7 +1382,7 @@
             "title": "【第1回】MORE MORE JUMP！生配信（アーカイブ）",
             "date": "2022-01-24T03:03:45Z",
             "like": "17989",
-            "view": "312613",
+            "view": "312620",
             "comment": "613",
             "listType": 0,
             "lastPostedView": 310000
@@ -1371,7 +1404,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#33 カップヌードルタイアップ特別回",
             "date": "2022-01-22T16:00:12Z",
             "like": "4903",
-            "view": "122727",
+            "view": "122730",
             "comment": "115",
             "listType": 0,
             "lastPostedView": 120000
@@ -1382,7 +1415,7 @@
             "title": "青色絵具 / 日野森志歩 & 日野森雫 × 初音ミク",
             "date": "2022-01-21T10:00:12Z",
             "like": "41865",
-            "view": "1405157",
+            "view": "1405194",
             "comment": "947",
             "listType": 0,
             "lastPostedView": 1400017
@@ -1403,8 +1436,8 @@
             "link": "https://youtu.be/-pZd1sVGpfM",
             "title": "ぷちセカ#02「戦え！ネネンガーV」",
             "date": "2022-01-20T10:00:08Z",
-            "like": "60414",
-            "view": "1106864",
+            "like": "60415",
+            "view": "1106888",
             "comment": "1677",
             "listType": 0,
             "lastPostedView": 1100016
@@ -1415,7 +1448,7 @@
             "title": "うっせぇわ / バーチャル・シンガーver.（初音ミク）",
             "date": "2022-01-20T09:00:14Z",
             "like": "46879",
-            "view": "703835",
+            "view": "703844",
             "comment": "1784",
             "listType": 0,
             "lastPostedView": 700001
@@ -1426,7 +1459,7 @@
             "title": "プロセカアフタートーク POP IN MY HEART!!編",
             "date": "2022-01-19T13:23:50Z",
             "like": "3993",
-            "view": "112162",
+            "view": "112163",
             "comment": "47",
             "listType": 0,
             "lastPostedView": 110000
@@ -1437,7 +1470,7 @@
             "title": "『にっこり^^調査隊のテーマ』（難易度：HARD）プレイ動画を一部公開",
             "date": "2022-01-19T13:12:19Z",
             "like": "5214",
-            "view": "123192",
+            "view": "123193",
             "comment": "119",
             "listType": 0,
             "lastPostedView": 120002
@@ -1447,8 +1480,8 @@
             "link": "https://youtu.be/v7SYWS2jarw",
             "title": "『にっこり^^調査隊のテーマ』3DMVゲームサイズ公開！",
             "date": "2022-01-19T13:10:19Z",
-            "like": "164876",
-            "view": "11452760",
+            "like": "164881",
+            "view": "11453136",
             "comment": "5443",
             "listType": 0,
             "lastPostedView": 11450095
@@ -1458,8 +1491,8 @@
             "link": "https://youtu.be/sesQdoGOfzc",
             "title": "プロジェクトセカイ ワンダショちゃんねる #16",
             "date": "2022-01-19T11:43:03Z",
-            "like": "19482",
-            "view": "615288",
+            "like": "19483",
+            "view": "615291",
             "comment": "295",
             "listType": 0,
             "lastPostedView": 610001
@@ -1469,8 +1502,8 @@
             "link": "https://youtu.be/JluOv0KD9Wc",
             "title": "乙女解剖 / 25時、ナイトコードで。 × 初音ミク",
             "date": "2022-01-14T09:00:15Z",
-            "like": "61264",
-            "view": "1649622",
+            "like": "61265",
+            "view": "1649685",
             "comment": "810",
             "listType": 0,
             "lastPostedView": 1640004
@@ -1481,7 +1514,7 @@
             "title": "ぷちセカ#01「練習の後といえば」",
             "date": "2022-01-13T10:00:13Z",
             "like": "73775",
-            "view": "1202123",
+            "view": "1202155",
             "comment": "2295",
             "listType": 0,
             "lastPostedView": 1200033
@@ -1491,8 +1524,8 @@
             "link": "https://youtu.be/YsSShYaKOvk",
             "title": "アイデンティティ / 宵崎 奏 × 初音ミク",
             "date": "2022-01-10T10:00:11Z",
-            "like": "184696",
-            "view": "9031877",
+            "like": "184701",
+            "view": "9032455",
             "comment": "2995",
             "listType": 0,
             "lastPostedView": 9030002
@@ -1503,7 +1536,7 @@
             "title": "『Don't Fight The Music』（難易度：MASTER）プレイ動画を一部先行公開！",
             "date": "2022-01-10T03:00:19Z",
             "like": "18919",
-            "view": "898388",
+            "view": "898399",
             "comment": "1707",
             "listType": 0,
             "lastPostedView": 890005
@@ -1524,8 +1557,8 @@
             "link": "https://youtu.be/BqakDaXPirI",
             "title": "『the EmpErroR』（難易度：MASTER）プレイ動画を一部先行公開！",
             "date": "2022-01-09T03:00:09Z",
-            "like": "13584",
-            "view": "555523",
+            "like": "13587",
+            "view": "555538",
             "comment": "1456",
             "listType": 0,
             "lastPostedView": 550016
@@ -1558,7 +1591,7 @@
             "title": "『エンドマークに希望と涙を添えて』（難易度：MASTER）プレイ動画を一部先行公開！",
             "date": "2022-01-08T03:30:06Z",
             "like": "15583",
-            "view": "544882",
+            "view": "544887",
             "comment": "2155",
             "listType": 0,
             "lastPostedView": 540000
@@ -1579,8 +1612,8 @@
             "link": "https://youtu.be/_KNAFKsNPXQ",
             "title": "ビビバスアーカイブ『Gimme×Gimme』/ 白石杏&東雲彰人",
             "date": "2022-01-06T09:00:13Z",
-            "like": "29109",
-            "view": "523236",
+            "like": "29110",
+            "view": "523242",
             "comment": "1098",
             "listType": 0,
             "lastPostedView": 520001
@@ -1612,8 +1645,8 @@
             "link": "https://youtu.be/NpOR2QwvjPk",
             "title": "『少女レイ』3DMVゲームサイズ公開！",
             "date": "2022-01-02T06:00:20Z",
-            "like": "36905",
-            "view": "1823970",
+            "like": "36906",
+            "view": "1824042",
             "comment": "1270",
             "listType": 0,
             "lastPostedView": 1820040
@@ -1635,7 +1668,7 @@
             "title": "新春！プロセカ初詣2022 〜プロセカ神社で参拝しよう〜",
             "date": "2022-01-01T03:00:10Z",
             "like": "10271",
-            "view": "201407",
+            "view": "201408",
             "comment": "3027",
             "listType": 0,
             "lastPostedView": 200000
@@ -1645,8 +1678,8 @@
             "link": "https://youtu.be/rLt45Ylw5Ks",
             "title": "『ダンスロボットダンス』3DMVゲームサイズ公開！",
             "date": "2022-01-01T01:00:11Z",
-            "like": "12170",
-            "view": "481300",
+            "like": "12171",
+            "view": "481311",
             "comment": "230",
             "listType": 0,
             "lastPostedView": 480000
@@ -1657,7 +1690,7 @@
             "title": "『ウミユリ海底譚』3DMVゲームサイズ公開！",
             "date": "2022-01-01T01:00:02Z",
             "like": "10117",
-            "view": "234006",
+            "view": "234014",
             "comment": "239",
             "listType": 0,
             "lastPostedView": 230003
@@ -1679,7 +1712,7 @@
             "title": "『ヴィラン』3DMVゲームサイズ公開！",
             "date": "2021-12-31T06:09:28Z",
             "like": "40951",
-            "view": "2545075",
+            "view": "2545141",
             "comment": "971",
             "listType": 0,
             "lastPostedView": 2540077
@@ -1690,7 +1723,7 @@
             "title": "『ヴィラン』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-12-30T09:00:24Z",
             "like": "13647",
-            "view": "286527",
+            "view": "286528",
             "comment": "638",
             "listType": 0,
             "lastPostedView": 280771
@@ -1701,7 +1734,7 @@
             "title": "ミライ / Vivid BAD SQUAD × 巡音ルカ",
             "date": "2021-12-29T13:30:12Z",
             "like": "50902",
-            "view": "2295912",
+            "view": "2295995",
             "comment": "1338",
             "listType": 0,
             "lastPostedView": 2290072
@@ -1712,7 +1745,7 @@
             "title": "プロセカアフタートーク Same Dreams,Same Colors編",
             "date": "2021-12-29T13:21:41Z",
             "like": "5193",
-            "view": "111545",
+            "view": "111547",
             "comment": "54",
             "listType": 0,
             "lastPostedView": 110000
@@ -1734,7 +1767,7 @@
             "title": "『ミライ』3DMVゲームサイズ公開！",
             "date": "2021-12-29T13:06:11Z",
             "like": "23966",
-            "view": "1038044",
+            "view": "1038079",
             "comment": "755",
             "listType": 0,
             "lastPostedView": 1030003
@@ -1777,8 +1810,8 @@
             "link": "https://youtu.be/B45Q1AbiBWg",
             "title": "KING / 天馬 司、神代 類（ワンダーランズ×ショウタイム）",
             "date": "2021-12-23T09:00:12Z",
-            "like": "96125",
-            "view": "1793439",
+            "like": "96130",
+            "view": "1793567",
             "comment": "2503",
             "listType": 0,
             "lastPostedView": 1790074
@@ -1800,7 +1833,7 @@
             "title": "プロセカアフタートーク MOREMOREMakingXmas編",
             "date": "2021-12-18T13:32:57Z",
             "like": "3474",
-            "view": "92054",
+            "view": "92056",
             "comment": "33",
             "listType": 0,
             "lastPostedView": 90001
@@ -1811,7 +1844,7 @@
             "title": "ワールドワイドワンダー / MORE MORE JUMP！ × KAITO",
             "date": "2021-12-18T12:15:13Z",
             "like": "50340",
-            "view": "2299645",
+            "view": "2299701",
             "comment": "1599",
             "listType": 0,
             "lastPostedView": 2290003
@@ -1822,7 +1855,7 @@
             "title": "『去り人達のワルツ』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-12-14T09:01:22Z",
             "like": "7578",
-            "view": "179027",
+            "view": "179028",
             "comment": "188",
             "listType": 0,
             "lastPostedView": 176758
@@ -1833,7 +1866,7 @@
             "title": "プロジェクトセカイ ワンダショちゃんねる #15",
             "date": "2021-12-13T12:32:19Z",
             "like": "14274",
-            "view": "515737",
+            "view": "515741",
             "comment": "317",
             "listType": 0,
             "lastPostedView": 510000
@@ -1855,7 +1888,7 @@
             "title": "『悪ノ娘 』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-12-12T09:00:08Z",
             "like": "15811",
-            "view": "292294",
+            "view": "292295",
             "comment": "736",
             "listType": 0,
             "lastPostedView": 290000
@@ -1866,7 +1899,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#30",
             "date": "2021-12-11T16:00:12Z",
             "like": "2638",
-            "view": "79818",
+            "view": "79820",
             "comment": "57",
             "listType": 0,
             "lastPostedView": 74782
@@ -1887,8 +1920,8 @@
             "link": "https://youtu.be/UyDytd1EZSk",
             "title": "トラフィック・ジャム / Vivid BAD SQUAD × 鏡音リン",
             "date": "2021-12-09T09:00:13Z",
-            "like": "63765",
-            "view": "2388308",
+            "like": "63767",
+            "view": "2388377",
             "comment": "1475",
             "listType": 0,
             "lastPostedView": 2380002
@@ -1899,7 +1932,7 @@
             "title": "『からくりピエロ』3DMVゲームサイズ公開！",
             "date": "2021-11-29T06:05:22Z",
             "like": "28184",
-            "view": "1430291",
+            "view": "1430333",
             "comment": "1024",
             "listType": 0,
             "lastPostedView": 1430013
@@ -1921,7 +1954,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#29",
             "date": "2021-11-27T16:00:10Z",
             "like": "6177",
-            "view": "163892",
+            "view": "163898",
             "comment": "141",
             "listType": 0,
             "lastPostedView": 160001
@@ -1932,7 +1965,7 @@
             "title": "プロジェクトセカイ ワンダショちゃんねる #14",
             "date": "2021-11-22T12:31:24Z",
             "like": "11079",
-            "view": "379975",
+            "view": "379977",
             "comment": "395",
             "listType": 0,
             "lastPostedView": 370000
@@ -1965,7 +1998,7 @@
             "title": "『STAGE OF SEKAI』3DMVゲームサイズ公開！",
             "date": "2021-11-18T13:09:50Z",
             "like": "19944",
-            "view": "1022893",
+            "view": "1022920",
             "comment": "602",
             "listType": 0,
             "lastPostedView": 1020013
@@ -1976,7 +2009,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#28",
             "date": "2021-11-13T16:00:09Z",
             "like": "3040",
-            "view": "86562",
+            "view": "86564",
             "comment": "52",
             "listType": 0,
             "lastPostedView": 80882
@@ -1987,7 +2020,7 @@
             "title": "プロセカアフタートーク ぼくのあしあと キミのゆくさき編",
             "date": "2021-11-09T14:54:05Z",
             "like": "5020",
-            "view": "130155",
+            "view": "130156",
             "comment": "69",
             "listType": 0,
             "lastPostedView": 130000
@@ -1997,8 +2030,8 @@
             "link": "https://youtu.be/16M9oC-a5bY",
             "title": "ロウワー / 25時、ナイトコードで。 × MEIKO",
             "date": "2021-11-09T12:15:12Z",
-            "like": "163485",
-            "view": "10551916",
+            "like": "163490",
+            "view": "10552481",
             "comment": "3878",
             "listType": 0,
             "lastPostedView": 10550222
@@ -2009,7 +2042,7 @@
             "title": "『オルターエゴ』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-11-09T09:00:33Z",
             "like": "9781",
-            "view": "253861",
+            "view": "253863",
             "comment": "420",
             "listType": 0,
             "lastPostedView": 250000
@@ -2020,7 +2053,7 @@
             "title": "『初音天地開闢神話』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-11-04T09:00:22Z",
             "like": "11177",
-            "view": "316695",
+            "view": "316697",
             "comment": "1002",
             "listType": 0,
             "lastPostedView": 310690
@@ -2031,7 +2064,7 @@
             "title": "『ロウワー』（難易度：HARD）プレイ動画を一部公開",
             "date": "2021-10-31T06:08:03Z",
             "like": "5712",
-            "view": "170883",
+            "view": "170884",
             "comment": "244",
             "listType": 0,
             "lastPostedView": 170000
@@ -2074,8 +2107,8 @@
             "link": "https://youtu.be/bKKxLK_1ae8",
             "title": "『ショウタイム・ルーラー』3DMVゲームサイズ公開！",
             "date": "2021-10-29T13:09:19Z",
-            "like": "73698",
-            "view": "4724544",
+            "like": "73699",
+            "view": "4724658",
             "comment": "2017",
             "listType": 0,
             "lastPostedView": 4720005
@@ -2086,7 +2119,7 @@
             "title": "『Happy Halloween』（難易度：HARD）プレイ動画を一部先行公開",
             "date": "2021-10-29T09:51:31Z",
             "like": "11241",
-            "view": "261581",
+            "view": "261582",
             "comment": "679",
             "listType": 0,
             "lastPostedView": 260000
@@ -2097,7 +2130,7 @@
             "title": "プロジェクトセカイ ワンダショちゃんねる #13",
             "date": "2021-10-28T13:28:41Z",
             "like": "12158",
-            "view": "426365",
+            "view": "426370",
             "comment": "208",
             "listType": 0,
             "lastPostedView": 420002
@@ -2141,7 +2174,7 @@
             "title": "Hello,world! / Leo/need × 初音ミク",
             "date": "2021-10-13T09:00:10Z",
             "like": "26972",
-            "view": "1216503",
+            "view": "1216527",
             "comment": "793",
             "listType": 0,
             "lastPostedView": 1210009
@@ -2163,7 +2196,7 @@
             "title": "ray / Leo/need × 初音ミク",
             "date": "2021-10-12T09:00:11Z",
             "like": "38611",
-            "view": "1834503",
+            "view": "1834538",
             "comment": "872",
             "listType": 0,
             "lastPostedView": 1830039
@@ -2174,7 +2207,7 @@
             "title": "『ray』3DMVゲームサイズ公開！",
             "date": "2021-10-12T06:01:40Z",
             "like": "10797",
-            "view": "544330",
+            "view": "544350",
             "comment": "389",
             "listType": 0,
             "lastPostedView": 540009
@@ -2218,7 +2251,7 @@
             "title": "YouTubeチャンネル登録者数25万人達成記念ボイスドラマ ワンダーランズ×ショウタイム編",
             "date": "2021-10-09T09:00:13Z",
             "like": "8357",
-            "view": "123081",
+            "view": "123082",
             "comment": "286",
             "listType": 0,
             "lastPostedView": 120000
@@ -2229,7 +2262,7 @@
             "title": "『だれかの心臓になれたなら』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-10-08T09:00:21Z",
             "like": "12215",
-            "view": "243668",
+            "view": "243669",
             "comment": "798",
             "listType": 0,
             "lastPostedView": 240000
@@ -2240,7 +2273,7 @@
             "title": "『悪魔の踊り方』3DMVゲームサイズ公開！",
             "date": "2021-10-08T06:01:08Z",
             "like": "37433",
-            "view": "2396716",
+            "view": "2396773",
             "comment": "1079",
             "listType": 0,
             "lastPostedView": 2390005
@@ -2251,7 +2284,7 @@
             "title": "『悪魔の踊り方』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-10-07T09:00:16Z",
             "like": "13226",
-            "view": "266184",
+            "view": "266185",
             "comment": "631",
             "listType": 0,
             "lastPostedView": 263503
@@ -2273,7 +2306,7 @@
             "title": "『テレキャスタービーボーイ』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-10-05T09:01:35Z",
             "like": "14578",
-            "view": "336715",
+            "view": "336716",
             "comment": "725",
             "listType": 0,
             "lastPostedView": 331378
@@ -2284,7 +2317,7 @@
             "title": "『拝啓ドッペルゲンガー』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-10-04T09:04:16Z",
             "like": "11150",
-            "view": "280652",
+            "view": "280653",
             "comment": "557",
             "listType": 0,
             "lastPostedView": 280000
@@ -2372,7 +2405,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』25回記念特別版",
             "date": "2021-10-02T16:00:11Z",
             "like": "5757",
-            "view": "194923",
+            "view": "194928",
             "comment": "179",
             "listType": 0,
             "lastPostedView": 190000
@@ -2382,8 +2415,8 @@
             "link": "https://youtu.be/2flpbNFUlNE",
             "title": "『マシンガンポエムドール』（難易度：MASTER）プレイ動画を一部先行公開！",
             "date": "2021-10-02T09:30:20Z",
-            "like": "25172",
-            "view": "972789",
+            "like": "25173",
+            "view": "972798",
             "comment": "3094",
             "listType": 0,
             "lastPostedView": 970013
@@ -2405,7 +2438,7 @@
             "title": "YouTubeチャンネル登録者数25万人達成記念ボイスドラマ 25時、ナイトコードで。編",
             "date": "2021-10-02T09:00:12Z",
             "like": "11930",
-            "view": "178692",
+            "view": "178693",
             "comment": "429",
             "listType": 0,
             "lastPostedView": 170003
@@ -2416,7 +2449,7 @@
             "title": "『ロストワンの号哭』3DMVゲームサイズ公開！",
             "date": "2021-10-02T06:03:03Z",
             "like": "20610",
-            "view": "1129590",
+            "view": "1129616",
             "comment": "664",
             "listType": 0,
             "lastPostedView": 1120007
@@ -2460,7 +2493,7 @@
             "title": "プロジェクトセカイ アニバーサリー生放送",
             "date": "2021-09-29T15:27:41Z",
             "like": "15046",
-            "view": "314330",
+            "view": "314332",
             "comment": "215",
             "listType": 0,
             "lastPostedView": 310000
@@ -2470,8 +2503,8 @@
             "link": "https://youtu.be/xs4RPTt4J0M",
             "title": "アニバーサリーソング『群青讃歌』3DMVゲームサイズ公開！",
             "date": "2021-09-29T15:08:28Z",
-            "like": "35228",
-            "view": "1583865",
+            "like": "35229",
+            "view": "1583899",
             "comment": "1422",
             "listType": 0,
             "lastPostedView": 1580011
@@ -2503,8 +2536,8 @@
             "link": "https://youtu.be/LLoHF639Jes",
             "title": "『再生』3DMVゲームサイズ公開！",
             "date": "2021-09-29T13:09:52Z",
-            "like": "28507",
-            "view": "1200914",
+            "like": "28508",
+            "view": "1200954",
             "comment": "1172",
             "listType": 0,
             "lastPostedView": 1200003
@@ -2515,7 +2548,7 @@
             "title": "プロジェクトセカイアニバーサリーフェスタ 2021 stage DAY2",
             "date": "2021-09-26T10:39:59Z",
             "like": "18959",
-            "view": "709347",
+            "view": "709348",
             "comment": "478",
             "listType": 0,
             "lastPostedView": 700894
@@ -2526,7 +2559,7 @@
             "title": "コネクトライブ告知PV公開！",
             "date": "2021-09-26T07:46:03Z",
             "like": "14606",
-            "view": "215506",
+            "view": "215509",
             "comment": "696",
             "listType": 0,
             "lastPostedView": 210001
@@ -2537,7 +2570,7 @@
             "title": "プロジェクトセカイChampionship 2021 Autumn",
             "date": "2021-09-26T06:32:40Z",
             "like": "21675",
-            "view": "938782",
+            "view": "938787",
             "comment": "471",
             "listType": 0,
             "lastPostedView": 930000
@@ -2559,7 +2592,7 @@
             "title": "プロジェクトセカイ　スペシャルチームマッチ2021",
             "date": "2021-09-25T11:23:18Z",
             "like": "16762",
-            "view": "668917",
+            "view": "668920",
             "comment": "228",
             "listType": 0,
             "lastPostedView": 660005
@@ -2569,8 +2602,8 @@
             "link": "https://youtu.be/yEWTjLK6UXo",
             "title": "YouTubeチャンネル登録者数25万人達成記念ボイスドラマ Leo/need編",
             "date": "2021-09-25T10:00:13Z",
-            "like": "3566",
-            "view": "60629",
+            "like": "3567",
+            "view": "60630",
             "comment": "116",
             "listType": 0,
             "lastPostedView": 60001
@@ -2581,7 +2614,7 @@
             "title": "プロジェクトセカイアニバーサリーフェスタ 2021 stage DAY1",
             "date": "2021-09-25T05:32:35Z",
             "like": "13438",
-            "view": "392233",
+            "view": "392234",
             "comment": "215",
             "listType": 0,
             "lastPostedView": 390000
@@ -2603,7 +2636,7 @@
             "title": "『カトラリー』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-09-20T09:00:07Z",
             "like": "10041",
-            "view": "215420",
+            "view": "215421",
             "comment": "570",
             "listType": 0,
             "lastPostedView": 212281
@@ -2613,8 +2646,8 @@
             "link": "https://youtu.be/RxG5r0m4r1k",
             "title": "プロセカアフタートーク　Knock the Future!!編",
             "date": "2021-09-19T13:21:04Z",
-            "like": "1895",
-            "view": "50792",
+            "like": "1896",
+            "view": "50794",
             "comment": "26",
             "listType": 0,
             "lastPostedView": 50000
@@ -2624,8 +2657,8 @@
             "link": "https://youtu.be/hZgbqUQI64E",
             "title": "流星のパルス / Leo/need × MEIKO",
             "date": "2021-09-19T12:15:09Z",
-            "like": "38628",
-            "view": "1831139",
+            "like": "38629",
+            "view": "1831188",
             "comment": "1098",
             "listType": 0,
             "lastPostedView": 1830021
@@ -2680,7 +2713,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#23",
             "date": "2021-09-04T16:00:12Z",
             "like": "2444",
-            "view": "78087",
+            "view": "78089",
             "comment": "60",
             "listType": 0,
             "lastPostedView": 74540
@@ -2691,7 +2724,7 @@
             "title": "もうすぐ1周年！プロジェクトセカイ特別生放送",
             "date": "2021-09-03T12:19:45Z",
             "like": "11826",
-            "view": "366852",
+            "view": "366854",
             "comment": "335",
             "listType": 0,
             "lastPostedView": 360000
@@ -2702,7 +2735,7 @@
             "title": "magic number / バーチャル・シンガーver.（初音ミク）",
             "date": "2021-09-01T09:00:13Z",
             "like": "30296",
-            "view": "894912",
+            "view": "894926",
             "comment": "757",
             "listType": 0,
             "lastPostedView": 890008
@@ -2713,7 +2746,7 @@
             "title": "なつやすみラジオ31日目 初音ミク14周年特別回",
             "date": "2021-08-31T10:00:13Z",
             "like": "6974",
-            "view": "145805",
+            "view": "145806",
             "comment": "286",
             "listType": 0,
             "lastPostedView": 140001
@@ -2745,8 +2778,8 @@
             "link": "https://youtu.be/iQwSADwcsG4",
             "title": "ビビバスアーカイブ『ドラマツルギー』/ 東雲彰人&青柳冬弥",
             "date": "2021-08-30T09:00:12Z",
-            "like": "42180",
-            "view": "696712",
+            "like": "42181",
+            "view": "696723",
             "comment": "1649",
             "listType": 0,
             "lastPostedView": 690001
@@ -2757,7 +2790,7 @@
             "title": "プロセカアフタートーク　マーメイドにあこがれて編",
             "date": "2021-08-29T13:30:14Z",
             "like": "2125",
-            "view": "66181",
+            "view": "66183",
             "comment": "25",
             "listType": 0,
             "lastPostedView": 62914
@@ -2767,8 +2800,8 @@
             "link": "https://youtu.be/JoM4JGqQyCU",
             "title": "Glory Steady Go! / ワンダーランズ×ショウタイム × 巡音ルカ",
             "date": "2021-08-29T12:15:11Z",
-            "like": "117270",
-            "view": "6950301",
+            "like": "117272",
+            "view": "6950459",
             "comment": "4480",
             "listType": 0,
             "lastPostedView": 6950079
@@ -2790,7 +2823,7 @@
             "title": "プロセカイベントストーリーシアター 25時、ナイトコードで。編 Vol.2",
             "date": "2021-08-29T08:32:54Z",
             "like": "3246",
-            "view": "121508",
+            "view": "121512",
             "comment": "36",
             "listType": 0,
             "lastPostedView": 120000
@@ -2834,7 +2867,7 @@
             "title": "恋愛裁判 / MORE MORE JUMP！ × 初音ミク",
             "date": "2021-08-26T09:00:10Z",
             "like": "33362",
-            "view": "1037511",
+            "view": "1037531",
             "comment": "858",
             "listType": 0,
             "lastPostedView": 1030019
@@ -2856,7 +2889,7 @@
             "title": "なつやすみラジオ24日目 ワンダーランズ×ショウタイム編",
             "date": "2021-08-24T10:00:13Z",
             "like": "3081",
-            "view": "80585",
+            "view": "80590",
             "comment": "100",
             "listType": 0,
             "lastPostedView": 80002
@@ -2867,7 +2900,7 @@
             "title": "なつやすみラジオ23日目 ワンダーランズ×ショウタイム編",
             "date": "2021-08-23T10:00:11Z",
             "like": "1880",
-            "view": "59635",
+            "view": "59637",
             "comment": "64",
             "listType": 0,
             "lastPostedView": 53072
@@ -2878,7 +2911,7 @@
             "title": "『チルドレンレコード 』3DMVゲームサイズ公開！",
             "date": "2021-08-23T06:14:12Z",
             "like": "32651",
-            "view": "1713034",
+            "view": "1713056",
             "comment": "1332",
             "listType": 0,
             "lastPostedView": 1710029
@@ -2889,7 +2922,7 @@
             "title": "なつやすみラジオ22日目 ワンダーランズ×ショウタイム編",
             "date": "2021-08-22T10:00:09Z",
             "like": "2948",
-            "view": "80892",
+            "view": "80898",
             "comment": "96",
             "listType": 0,
             "lastPostedView": 80000
@@ -2922,7 +2955,7 @@
             "title": "なつやすみラジオ21日目 ワンダーランズ×ショウタイム編",
             "date": "2021-08-21T10:00:09Z",
             "like": "2927",
-            "view": "76754",
+            "view": "76755",
             "comment": "91",
             "listType": 0,
             "lastPostedView": 70002
@@ -2933,7 +2966,7 @@
             "title": "プロセカイベントストーリーシアター ワンダーランズ×ショウタイム編 Vol.2",
             "date": "2021-08-21T09:01:44Z",
             "like": "4949",
-            "view": "195114",
+            "view": "195115",
             "comment": "79",
             "listType": 0,
             "lastPostedView": 190002
@@ -2944,7 +2977,7 @@
             "title": "なつやすみラジオ20日目 ワンダーランズ×ショウタイム編",
             "date": "2021-08-20T10:00:13Z",
             "like": "3440",
-            "view": "87507",
+            "view": "87509",
             "comment": "124",
             "listType": 0,
             "lastPostedView": 80000
@@ -2955,7 +2988,7 @@
             "title": "なつやすみラジオ19日目 ワンダーランズ×ショウタイム編",
             "date": "2021-08-19T10:00:11Z",
             "like": "6497",
-            "view": "154171",
+            "view": "154177",
             "comment": "256",
             "listType": 0,
             "lastPostedView": 150000
@@ -2977,7 +3010,7 @@
             "title": "プロセカアフタートーク　ハッピーラブリーエブリデイ！編",
             "date": "2021-08-18T13:24:26Z",
             "like": "1851",
-            "view": "55025",
+            "view": "55026",
             "comment": "29",
             "listType": 0,
             "lastPostedView": 52958
@@ -2999,7 +3032,7 @@
             "title": "『アイスドロップ』3DMVゲームサイズ公開！",
             "date": "2021-08-18T13:10:58Z",
             "like": "20633",
-            "view": "1096955",
+            "view": "1096992",
             "comment": "856",
             "listType": 0,
             "lastPostedView": 1090008
@@ -3010,7 +3043,7 @@
             "title": "なつやすみラジオ18日目 Vivid BAD SQUAD編",
             "date": "2021-08-18T10:00:14Z",
             "like": "4034",
-            "view": "106401",
+            "view": "106403",
             "comment": "115",
             "listType": 0,
             "lastPostedView": 100000
@@ -3031,8 +3064,8 @@
             "link": "https://youtu.be/8m1cUgLepmY",
             "title": "シネマ / Vivid BAD SQUAD × KAITO",
             "date": "2021-08-17T09:00:15Z",
-            "like": "167115",
-            "view": "10690294",
+            "like": "167118",
+            "view": "10690500",
             "comment": "4967",
             "listType": 0,
             "lastPostedView": 10690294
@@ -3065,7 +3098,7 @@
             "title": "なつやすみラジオ14日目 Vivid BAD SQUAD編",
             "date": "2021-08-14T10:00:11Z",
             "like": "3088",
-            "view": "86003",
+            "view": "86005",
             "comment": "89",
             "listType": 0,
             "lastPostedView": 80000
@@ -3087,7 +3120,7 @@
             "title": "プロセカイベントストーリーシアター Vivid BAD SQUAD編 Vol.2",
             "date": "2021-08-14T08:50:46Z",
             "like": "4620",
-            "view": "179994",
+            "view": "179996",
             "comment": "73",
             "listType": 0,
             "lastPostedView": 170002
@@ -3098,7 +3131,7 @@
             "title": "なつやすみラジオ13日目 Vivid BAD SQUAD編",
             "date": "2021-08-13T10:00:13Z",
             "like": "5238",
-            "view": "128534",
+            "view": "128537",
             "comment": "251",
             "listType": 0,
             "lastPostedView": 120001
@@ -3164,7 +3197,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#21",
             "date": "2021-08-07T16:00:13Z",
             "like": "2770",
-            "view": "75003",
+            "view": "75005",
             "comment": "94",
             "listType": 0,
             "lastPostedView": 70792
@@ -3175,7 +3208,7 @@
             "title": "プロセカイベントストーリーシアター MORE MORE JUMP！編 Vol.2",
             "date": "2021-08-07T10:01:31Z",
             "like": "2748",
-            "view": "117813",
+            "view": "117814",
             "comment": "55",
             "listType": 0,
             "lastPostedView": 110000
@@ -3197,7 +3230,7 @@
             "title": "なつやすみラジオ6日目 Leo/need編",
             "date": "2021-08-06T10:00:12Z",
             "like": "1517",
-            "view": "42692",
+            "view": "42694",
             "comment": "39",
             "listType": 0,
             "lastPostedView": 40002
@@ -3208,7 +3241,7 @@
             "title": "なつやすみラジオ5日目 Leo/need編",
             "date": "2021-08-05T10:00:10Z",
             "like": "1431",
-            "view": "40894",
+            "view": "40895",
             "comment": "51",
             "listType": 0,
             "lastPostedView": 40001
@@ -3219,7 +3252,7 @@
             "title": "『そうだった！！』（難易度：HARD） プレイ動画を一部先行公開！",
             "date": "2021-08-05T09:02:47Z",
             "like": "8870",
-            "view": "230931",
+            "view": "230932",
             "comment": "516",
             "listType": 0,
             "lastPostedView": 230000
@@ -3241,7 +3274,7 @@
             "title": "なつやすみラジオ3日目 Leo/need編",
             "date": "2021-08-03T10:00:12Z",
             "like": "1544",
-            "view": "52158",
+            "view": "52159",
             "comment": "44",
             "listType": 0,
             "lastPostedView": 50001
@@ -3262,11 +3295,11 @@
             "link": "https://youtu.be/J9kD9rYR088",
             "title": "ジャックポットサッドガール / 25時、ナイトコードで。 × 初音ミク",
             "date": "2021-08-02T09:00:12Z",
-            "like": "105793",
-            "view": "6349885",
+            "like": "105794",
+            "view": "6350087",
             "comment": "2370",
             "listType": 0,
-            "lastPostedView": 6340060
+            "lastPostedView": 6350087
         },
         {
             "id": "Vlq6zNElTao",
@@ -3274,7 +3307,7 @@
             "title": "なつやすみラジオ1日目 Leo/need編",
             "date": "2021-08-01T10:00:12Z",
             "like": "4881",
-            "view": "154173",
+            "view": "154178",
             "comment": "175",
             "listType": 0,
             "lastPostedView": 150000
@@ -3285,7 +3318,7 @@
             "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Original Soundtrack Vol.1",
             "date": "2021-08-01T03:00:30Z",
             "like": "17649",
-            "view": "331437",
+            "view": "331439",
             "comment": "1332",
             "listType": 0,
             "lastPostedView": 330000
@@ -3296,7 +3329,7 @@
             "title": "プロセカイベントストーリーシアター Leo/need編 Vol.2",
             "date": "2021-07-31T08:36:53Z",
             "like": "2295",
-            "view": "87764",
+            "view": "87765",
             "comment": "45",
             "listType": 0,
             "lastPostedView": 83452
@@ -3307,7 +3340,7 @@
             "title": "25時、ナイトコードで行われるメンバーの作業風景を公開！#3",
             "date": "2021-07-30T08:00:12Z",
             "like": "13498",
-            "view": "503643",
+            "view": "503649",
             "comment": "816",
             "listType": 0,
             "lastPostedView": 500001
@@ -3318,7 +3351,7 @@
             "title": "25時、ナイトコードで行われるメンバーの作業風景を公開！#2",
             "date": "2021-07-30T00:00:10Z",
             "like": "16898",
-            "view": "619844",
+            "view": "619856",
             "comment": "573",
             "listType": 0,
             "lastPostedView": 610004
@@ -3328,9 +3361,9 @@
             "link": "https://youtu.be/JgSV96MQC6Q",
             "title": "25時、ナイトコードで行われるメンバーの作業風景を公開！#1",
             "date": "2021-07-29T16:00:11Z",
-            "like": "42457",
-            "view": "1175053",
-            "comment": "1725",
+            "like": "42458",
+            "view": "1175091",
+            "comment": "1726",
             "listType": 0,
             "lastPostedView": 1170015
         },
@@ -3340,7 +3373,7 @@
             "title": "『ビターチョコデコレーション 』3DMVゲームサイズ公開！",
             "date": "2021-07-28T06:06:28Z",
             "like": "53344",
-            "view": "3747429",
+            "view": "3747457",
             "comment": "1831",
             "listType": 0,
             "lastPostedView": 3740037
@@ -3362,7 +3395,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#20",
             "date": "2021-07-24T16:00:15Z",
             "like": "3129",
-            "view": "79817",
+            "view": "79818",
             "comment": "115",
             "listType": 0,
             "lastPostedView": 76393
@@ -3373,7 +3406,7 @@
             "title": "ポジティブ☆ダンスタイム / ワンダーランズ×ショウタイム × 鏡音リン",
             "date": "2021-07-20T09:00:15Z",
             "like": "54226",
-            "view": "1973197",
+            "view": "1973233",
             "comment": "1708",
             "listType": 0,
             "lastPostedView": 1970014
@@ -3384,7 +3417,7 @@
             "title": "地球最後の告白を / MORE MORE JUMP！ × 巡音ルカ",
             "date": "2021-07-19T09:00:12Z",
             "like": "68405",
-            "view": "4004708",
+            "view": "4004792",
             "comment": "1818",
             "listType": 0,
             "lastPostedView": 4000099
@@ -3395,7 +3428,7 @@
             "title": "プロセカアフタートーク　Awakening Beat編",
             "date": "2021-07-18T13:22:48Z",
             "like": "3463",
-            "view": "91474",
+            "view": "91475",
             "comment": "54",
             "listType": 0,
             "lastPostedView": 90000
@@ -3405,8 +3438,8 @@
             "link": "https://youtu.be/DaWbq6KeJq4",
             "title": "Beat Eater / Vivid BAD SQUAD × 鏡音レン",
             "date": "2021-07-18T12:15:12Z",
-            "like": "119604",
-            "view": "8974887",
+            "like": "119605",
+            "view": "8975113",
             "comment": "3166",
             "listType": 0,
             "lastPostedView": 8970108
@@ -3428,7 +3461,7 @@
             "title": "六兆年と一夜物語 / Leo/need × 初音ミク",
             "date": "2021-07-12T09:00:12Z",
             "like": "49786",
-            "view": "2167048",
+            "view": "2167108",
             "comment": "1143",
             "listType": 0,
             "lastPostedView": 2160035
@@ -3439,7 +3472,7 @@
             "title": "『六兆年と一夜物語』（難易度：MASTER） プレイ動画を一部先行公開！",
             "date": "2021-07-12T03:03:20Z",
             "like": "13358",
-            "view": "480296",
+            "view": "480298",
             "comment": "1920",
             "listType": 0,
             "lastPostedView": 480002
@@ -3483,7 +3516,7 @@
             "title": "プロセカアフタートーク　Unnamed Harmony編",
             "date": "2021-07-07T14:23:41Z",
             "like": "1690",
-            "view": "54787",
+            "view": "54788",
             "comment": "14",
             "listType": 0,
             "lastPostedView": 52619
@@ -3505,7 +3538,7 @@
             "title": "『フロムトーキョー』3DMVゲームサイズ公開！",
             "date": "2021-07-07T13:09:33Z",
             "like": "17238",
-            "view": "1022759",
+            "view": "1022772",
             "comment": "620",
             "listType": 0,
             "lastPostedView": 1020001
@@ -3527,7 +3560,7 @@
             "title": "タイムマシン / Leo/need × 初音ミク",
             "date": "2021-07-03T09:00:11Z",
             "like": "25575",
-            "view": "930588",
+            "view": "930602",
             "comment": "731",
             "listType": 0,
             "lastPostedView": 930003
@@ -3549,7 +3582,7 @@
             "title": "プロセカアフタートーク　カーネーション・リコレクション編",
             "date": "2021-06-28T13:24:03Z",
             "like": "3714",
-            "view": "111383",
+            "view": "111385",
             "comment": "53",
             "listType": 0,
             "lastPostedView": 110000
@@ -3559,8 +3592,8 @@
             "link": "https://youtu.be/GTlQhMRHXIg",
             "title": "カナデトモスソラ / 25時、ナイトコードで。 × 巡音ルカ",
             "date": "2021-06-28T12:15:14Z",
-            "like": "72324",
-            "view": "4850709",
+            "like": "72325",
+            "view": "4850802",
             "comment": "1883",
             "listType": 0,
             "lastPostedView": 4850032
@@ -3582,7 +3615,7 @@
             "title": "モア！ジャンプ！モア！ / MORE MORE JUMP！ × 初音ミク",
             "date": "2021-06-21T09:00:13Z",
             "like": "59825",
-            "view": "2950071",
+            "view": "2950119",
             "comment": "1507",
             "listType": 0,
             "lastPostedView": 2950017
@@ -3593,7 +3626,7 @@
             "title": "『カナデトモスソラ』（難易度：HARD） プレイ動画を一部先行公開！",
             "date": "2021-06-20T09:00:10Z",
             "like": "10556",
-            "view": "234502",
+            "view": "234503",
             "comment": "720",
             "listType": 0,
             "lastPostedView": 232449
@@ -3615,7 +3648,7 @@
             "title": "『トンデモワンダーズ』（難易度：HARD） プレイ動画を一部公開！",
             "date": "2021-06-19T13:23:19Z",
             "like": "5620",
-            "view": "162870",
+            "view": "162871",
             "comment": "380",
             "listType": 0,
             "lastPostedView": 160003
@@ -3625,8 +3658,8 @@
             "link": "https://youtu.be/vI5xihka9hw",
             "title": "『トンデモワンダーズ』3DMVゲームサイズ公開！",
             "date": "2021-06-19T13:16:55Z",
-            "like": "208839",
-            "view": "12031741",
+            "like": "208843",
+            "view": "12032255",
             "comment": "15313",
             "listType": 0,
             "lastPostedView": 12030071
@@ -3637,7 +3670,7 @@
             "title": "自傷無色 / 25時、ナイトコードで。 × 初音ミク",
             "date": "2021-06-15T09:00:12Z",
             "like": "62369",
-            "view": "2647792",
+            "view": "2647840",
             "comment": "1547",
             "listType": 0,
             "lastPostedView": 2640021
@@ -3659,7 +3692,7 @@
             "title": "プロセカイベントストーリーシアター 25時、ナイトコードで。編",
             "date": "2021-06-13T08:08:15Z",
             "like": "3331",
-            "view": "133479",
+            "view": "133481",
             "comment": "46",
             "listType": 0,
             "lastPostedView": 130000
@@ -3681,7 +3714,7 @@
             "title": "『ロミオとシンデレラ』3DMVゲームサイズ公開！",
             "date": "2021-06-07T06:04:30Z",
             "like": "35639",
-            "view": "1927666",
+            "view": "1927692",
             "comment": "1160",
             "listType": 0,
             "lastPostedView": 1920023
@@ -3702,8 +3735,8 @@
             "link": "https://youtu.be/nNe6o3ivrXA",
             "title": "スイートマジック / ワンダーランズ×ショウタイム × 鏡音リン",
             "date": "2021-06-05T09:00:12Z",
-            "like": "49672",
-            "view": "1595398",
+            "like": "49674",
+            "view": "1595419",
             "comment": "1372",
             "listType": 0,
             "lastPostedView": 1590005
@@ -3714,7 +3747,7 @@
             "title": "プロセカイベントストーリーシアター ワンダーランズ×ショウタイム編",
             "date": "2021-06-05T08:31:54Z",
             "like": "6568",
-            "view": "254394",
+            "view": "254396",
             "comment": "127",
             "listType": 0,
             "lastPostedView": 250002
@@ -3758,7 +3791,7 @@
             "title": "アイノマテリアル / MORE MORE JUMP！ × MEIKO",
             "date": "2021-05-29T12:15:13Z",
             "like": "27460",
-            "view": "1182474",
+            "view": "1182490",
             "comment": "836",
             "listType": 0,
             "lastPostedView": 1180002
@@ -3768,8 +3801,8 @@
             "link": "https://youtu.be/x7_chKm37m8",
             "title": "『いかないで』3DMVゲームサイズ公開！",
             "date": "2021-05-28T06:05:40Z",
-            "like": "17826",
-            "view": "902454",
+            "like": "17828",
+            "view": "902465",
             "comment": "597",
             "listType": 0,
             "lastPostedView": 900006
@@ -3780,7 +3813,7 @@
             "title": "ボッカデラベリタ / 朝比奈まふゆ、暁山瑞希（25時、ナイトコードで。）",
             "date": "2021-05-27T10:00:13Z",
             "like": "67633",
-            "view": "2584190",
+            "view": "2584227",
             "comment": "1800",
             "listType": 0,
             "lastPostedView": 2580017
@@ -3824,7 +3857,7 @@
             "title": "『KING』（難易度：HARD） プレイ動画を一部先行公開！",
             "date": "2021-05-16T09:00:13Z",
             "like": "24972",
-            "view": "614703",
+            "view": "614704",
             "comment": "2127",
             "listType": 0,
             "lastPostedView": 610427
@@ -3857,7 +3890,7 @@
             "title": "ビビバスアーカイブ『アスノヨゾラ哨戒班』/ 小豆沢こはね&白石杏",
             "date": "2021-05-14T09:00:16Z",
             "like": "45067",
-            "view": "939874",
+            "view": "939887",
             "comment": "2094",
             "listType": 0,
             "lastPostedView": 930001
@@ -3868,7 +3901,7 @@
             "title": "プロセカアフタートーク　STRAY BAD DOG編",
             "date": "2021-05-08T13:21:48Z",
             "like": "5113",
-            "view": "141313",
+            "view": "141314",
             "comment": "77",
             "listType": 0,
             "lastPostedView": 140000
@@ -3890,7 +3923,7 @@
             "title": "『シネマ』3DMVゲームサイズ公開！",
             "date": "2021-05-08T13:09:16Z",
             "like": "56398",
-            "view": "3922902",
+            "view": "3922965",
             "comment": "2330",
             "listType": 0,
             "lastPostedView": 3920007
@@ -3900,8 +3933,8 @@
             "link": "https://youtu.be/4z9Mg8sbFeU",
             "title": "ECHO / Vivid BAD SQUAD × 巡音ルカ",
             "date": "2021-05-04T09:00:17Z",
-            "like": "89901",
-            "view": "4409153",
+            "like": "89902",
+            "view": "4409243",
             "comment": "3092",
             "listType": 0,
             "lastPostedView": 4400011
@@ -3934,7 +3967,7 @@
             "title": "『夜に駆ける』（難易度：HARD） プレイ動画を一部先行公開！",
             "date": "2021-04-30T09:00:11Z",
             "like": "16949",
-            "view": "458371",
+            "view": "458372",
             "comment": "1429",
             "listType": 0,
             "lastPostedView": 455052
@@ -3945,7 +3978,7 @@
             "title": "プロセカアフタートーク　Resonate with you編",
             "date": "2021-04-28T13:18:34Z",
             "like": "2105",
-            "view": "59646",
+            "view": "59647",
             "comment": "19",
             "listType": 0,
             "lastPostedView": 57927
@@ -3956,7 +3989,7 @@
             "title": "「1」 / Leo/need × 巡音ルカ",
             "date": "2021-04-28T12:15:15Z",
             "like": "34754",
-            "view": "2238652",
+            "view": "2238672",
             "comment": "912",
             "listType": 0,
             "lastPostedView": 2230007
@@ -3989,7 +4022,7 @@
             "title": "ワンスアポンアドリーム / ワンダーランズ×ショウタイム × 鏡音レン",
             "date": "2021-04-21T04:10:52Z",
             "like": "48771",
-            "view": "3351662",
+            "view": "3351713",
             "comment": "1217",
             "listType": 0,
             "lastPostedView": 3350017
@@ -4011,7 +4044,7 @@
             "title": "プロセカアフタートーク　シークレット・ディスタンス編",
             "date": "2021-04-19T13:20:33Z",
             "like": "3829",
-            "view": "112937",
+            "view": "112940",
             "comment": "54",
             "listType": 0,
             "lastPostedView": 110351
@@ -4032,8 +4065,8 @@
             "link": "https://youtu.be/QdYji4SVH3A",
             "title": "『アイディスマイル』3DMVゲームサイズ公開！",
             "date": "2021-04-19T13:16:07Z",
-            "like": "81238",
-            "view": "6034621",
+            "like": "81242",
+            "view": "6034754",
             "comment": "3116",
             "listType": 0,
             "lastPostedView": 6030014
@@ -4065,8 +4098,8 @@
             "link": "https://youtu.be/qtJ6U4c0_fQ",
             "title": "『限りなく灰色へ』3DMVゲームサイズ公開！",
             "date": "2021-04-06T03:01:09Z",
-            "like": "46747",
-            "view": "3381129",
+            "like": "46749",
+            "view": "3381248",
             "comment": "1029",
             "listType": 0,
             "lastPostedView": 3380005
@@ -4077,7 +4110,7 @@
             "title": "『お気に召すまま』3DMVゲームサイズ公開！",
             "date": "2021-04-05T06:06:17Z",
             "like": "50793",
-            "view": "3192052",
+            "view": "3192107",
             "comment": "1810",
             "listType": 0,
             "lastPostedView": 3190014
@@ -4121,7 +4154,7 @@
             "title": "『天使のクローバー』（難易度：HARD）プレイ動画を一部公開！",
             "date": "2021-03-30T13:23:05Z",
             "like": "1764",
-            "view": "55186",
+            "view": "55187",
             "comment": "126",
             "listType": 0,
             "lastPostedView": 53942
@@ -4132,7 +4165,7 @@
             "title": "『天使のクローバー』3DMVゲームサイズ公開！",
             "date": "2021-03-30T13:19:36Z",
             "like": "22593",
-            "view": "1709687",
+            "view": "1709725",
             "comment": "855",
             "listType": 0,
             "lastPostedView": 1700001
@@ -4143,7 +4176,7 @@
             "title": "プロジェクトセカイ ワンダショちゃんねる　ハーフアニバーサリースペシャル",
             "date": "2021-03-30T11:39:14Z",
             "like": "14783",
-            "view": "587181",
+            "view": "587189",
             "comment": "313",
             "listType": 0,
             "lastPostedView": 580000
@@ -4154,7 +4187,7 @@
             "title": "『初音ミクの激唱』（難易度：MASTER）プレイ動画を一部公開！",
             "date": "2021-03-30T10:53:35Z",
             "like": "19892",
-            "view": "917570",
+            "view": "917576",
             "comment": "2966",
             "listType": 0,
             "lastPostedView": 910000
@@ -4165,7 +4198,7 @@
             "title": "『初音ミクの激唱』（難易度：HARD）プレイ動画を一部公開！",
             "date": "2021-03-30T10:53:28Z",
             "like": "4068",
-            "view": "154253",
+            "view": "154254",
             "comment": "332",
             "listType": 0,
             "lastPostedView": 150283
@@ -4198,7 +4231,7 @@
             "title": "ハッピーシンセサイザ / MORE MORE JUMP！",
             "date": "2021-03-19T09:00:13Z",
             "like": "39437",
-            "view": "1963213",
+            "view": "1963238",
             "comment": "1106",
             "listType": 0,
             "lastPostedView": 1960008
@@ -4208,8 +4241,8 @@
             "link": "https://youtu.be/KvnS-TCq05Y",
             "title": "『威風堂々』3DMVゲームサイズ公開！",
             "date": "2021-03-15T06:04:46Z",
-            "like": "133541",
-            "view": "6439544",
+            "like": "133542",
+            "view": "6439763",
             "comment": "4320",
             "listType": 0,
             "lastPostedView": 6430134
@@ -4275,7 +4308,7 @@
             "title": "『ボッカデラベリタ』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-03-05T09:00:41Z",
             "like": "13707",
-            "view": "380041",
+            "view": "380042",
             "comment": "937",
             "listType": 0,
             "lastPostedView": 380000
@@ -4286,7 +4319,7 @@
             "title": "『ワンスアポンアドリーム』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-02-27T09:00:44Z",
             "like": "7297",
-            "view": "200192",
+            "view": "200193",
             "comment": "812",
             "listType": 0,
             "lastPostedView": 200000
@@ -4297,7 +4330,7 @@
             "title": "プロセカアフタートーク 満たされないペイルカラー編",
             "date": "2021-02-26T13:22:40Z",
             "like": "3365",
-            "view": "102126",
+            "view": "102127",
             "comment": "42",
             "listType": 0,
             "lastPostedView": 100000
@@ -4341,7 +4374,7 @@
             "title": "ヒバナ -Reloaded- / Leo/need × 初音ミク",
             "date": "2021-02-20T09:00:16Z",
             "like": "54928",
-            "view": "2648668",
+            "view": "2648709",
             "comment": "1688",
             "listType": 0,
             "lastPostedView": 2640001
@@ -4352,7 +4385,7 @@
             "title": "『ポジティブ☆ダンスタイム』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2021-02-18T09:14:53Z",
             "like": "7177",
-            "view": "199479",
+            "view": "199481",
             "comment": "770",
             "listType": 0,
             "lastPostedView": 196778
@@ -4362,8 +4395,8 @@
             "link": "https://youtu.be/KxNII3csgw4",
             "title": "『drop pop candy』3DMVゲームサイズ公開！",
             "date": "2021-02-15T06:06:18Z",
-            "like": "27568",
-            "view": "1585446",
+            "like": "27569",
+            "view": "1585476",
             "comment": "963",
             "listType": 0,
             "lastPostedView": 1580008
@@ -4385,7 +4418,7 @@
             "title": "プロセカストーリーシアター 25時、ナイトコードで。編",
             "date": "2021-02-14T08:36:11Z",
             "like": "4389",
-            "view": "184401",
+            "view": "184404",
             "comment": "88",
             "listType": 0,
             "lastPostedView": 180000
@@ -4396,7 +4429,7 @@
             "title": "『タイムマシン』3DMVゲームサイズ公開！",
             "date": "2021-02-10T06:02:38Z",
             "like": "6719",
-            "view": "428416",
+            "view": "428425",
             "comment": "290",
             "listType": 0,
             "lastPostedView": 420000
@@ -4417,8 +4450,8 @@
             "link": "https://youtu.be/h_h1uJcLsAE",
             "title": "『potatoになっていく』3DMVゲームサイズ公開！",
             "date": "2021-02-08T09:00:26Z",
-            "like": "54778",
-            "view": "3491731",
+            "like": "54780",
+            "view": "3491855",
             "comment": "1245",
             "listType": 0,
             "lastPostedView": 3490001
@@ -4429,7 +4462,7 @@
             "title": "RAD DOGS / Vivid BAD SQUAD × 初音ミク",
             "date": "2021-02-07T12:15:11Z",
             "like": "135269",
-            "view": "8699826",
+            "view": "8699952",
             "comment": "4154",
             "listType": 0,
             "lastPostedView": 8690039
@@ -4440,7 +4473,7 @@
             "title": "プロセカストーリーシアター ワンダーランズ×ショウタイム編",
             "date": "2021-02-07T09:01:31Z",
             "like": "5712",
-            "view": "269044",
+            "view": "269045",
             "comment": "132",
             "listType": 0,
             "lastPostedView": 260001
@@ -4451,7 +4484,7 @@
             "title": "メインストーリーあらすじ紹介動画 25時ナイトコードで。編",
             "date": "2021-02-07T09:00:03Z",
             "like": "3810",
-            "view": "75495",
+            "view": "75496",
             "comment": "230",
             "listType": 0,
             "lastPostedView": 72025
@@ -4462,7 +4495,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#8",
             "date": "2021-02-06T16:00:14Z",
             "like": "4550",
-            "view": "156993",
+            "view": "156994",
             "comment": "218",
             "listType": 0,
             "lastPostedView": 150001
@@ -4484,7 +4517,7 @@
             "title": "『ステラ』3DMVゲームサイズ公開！",
             "date": "2021-02-05T09:00:17Z",
             "like": "9907",
-            "view": "733145",
+            "view": "733153",
             "comment": "239",
             "listType": 0,
             "lastPostedView": 730001
@@ -4494,8 +4527,8 @@
             "link": "https://youtu.be/ZKbnmy82DZE",
             "title": "『メルティランドナイトメア』3DMVゲームサイズ公開！",
             "date": "2021-02-03T09:00:06Z",
-            "like": "11025",
-            "view": "744630",
+            "like": "11026",
+            "view": "744643",
             "comment": "323",
             "listType": 0,
             "lastPostedView": 740007
@@ -4506,7 +4539,7 @@
             "title": "『ニア』3DMVゲームサイズ公開！",
             "date": "2021-02-01T09:00:17Z",
             "like": "6700",
-            "view": "437105",
+            "view": "437110",
             "comment": "172",
             "listType": 0,
             "lastPostedView": 430007
@@ -4517,7 +4550,7 @@
             "title": "メインストーリーあらすじ紹介動画 ワンダーランズ×ショウタイム編",
             "date": "2021-01-30T09:32:21Z",
             "like": "4581",
-            "view": "85627",
+            "view": "85628",
             "comment": "287",
             "listType": 0,
             "lastPostedView": 82600
@@ -4560,8 +4593,8 @@
             "link": "https://youtu.be/vU-tfn7yyrQ",
             "title": "『Color of Drops』3DMVゲームサイズ公開！",
             "date": "2021-01-29T13:00:31Z",
-            "like": "17924",
-            "view": "1150330",
+            "like": "17925",
+            "view": "1150349",
             "comment": "707",
             "listType": 0,
             "lastPostedView": 1150005
@@ -4582,8 +4615,8 @@
             "link": "https://youtu.be/diTjDNKgjLE",
             "title": "『シャルル』3DMVゲームサイズ公開！",
             "date": "2021-01-27T09:00:13Z",
-            "like": "14137",
-            "view": "934193",
+            "like": "14138",
+            "view": "934218",
             "comment": "356",
             "listType": 0,
             "lastPostedView": 930002
@@ -4594,7 +4627,7 @@
             "title": "『ブリキノダンス』3DMVゲームサイズ公開！",
             "date": "2021-01-25T09:02:03Z",
             "like": "18511",
-            "view": "1108482",
+            "view": "1108494",
             "comment": "545",
             "listType": 0,
             "lastPostedView": 1100000
@@ -4616,7 +4649,7 @@
             "title": "メインストーリーあらすじ紹介動画 Vivid BAD SQUAD編",
             "date": "2021-01-23T09:03:02Z",
             "like": "4752",
-            "view": "84394",
+            "view": "84395",
             "comment": "262",
             "listType": 0,
             "lastPostedView": 81512
@@ -4638,7 +4671,7 @@
             "title": "『フラジール』3DMVゲームサイズ公開！",
             "date": "2021-01-22T09:03:31Z",
             "like": "16824",
-            "view": "766193",
+            "view": "766217",
             "comment": "359",
             "listType": 0,
             "lastPostedView": 760000
@@ -4649,7 +4682,7 @@
             "title": "『ツギハギスタッカート』3DMVゲームサイズ公開！",
             "date": "2021-01-20T09:00:35Z",
             "like": "13848",
-            "view": "1052850",
+            "view": "1052860",
             "comment": "305",
             "listType": 0,
             "lastPostedView": 1050000
@@ -4671,7 +4704,7 @@
             "title": "『テオ』3DMVゲームサイズ公開！",
             "date": "2021-01-18T09:00:28Z",
             "like": "9045",
-            "view": "617571",
+            "view": "617580",
             "comment": "252",
             "listType": 0,
             "lastPostedView": 610003
@@ -4703,8 +4736,8 @@
             "link": "https://youtu.be/LEEyYKrEvvk",
             "title": "『自傷無色』3DMVゲームサイズ公開！",
             "date": "2021-01-15T09:00:38Z",
-            "like": "11070",
-            "view": "612395",
+            "like": "11071",
+            "view": "612402",
             "comment": "246",
             "listType": 0,
             "lastPostedView": 610007
@@ -4736,8 +4769,8 @@
             "link": "https://youtu.be/gPimbh-jxCo",
             "title": "『スイートマジック』3DMVゲームサイズ公開！",
             "date": "2021-01-11T09:00:17Z",
-            "like": "20784",
-            "view": "1309638",
+            "like": "20785",
+            "view": "1309686",
             "comment": "688",
             "listType": 0,
             "lastPostedView": 1300004
@@ -4748,7 +4781,7 @@
             "title": "霽れを待つ / Leo/need × 初音ミク",
             "date": "2021-01-10T06:09:20Z",
             "like": "49213",
-            "view": "3839087",
+            "view": "3839107",
             "comment": "1394",
             "listType": 0,
             "lastPostedView": 3830029
@@ -4781,7 +4814,7 @@
             "title": "『劣等上等』3DMVゲームサイズ公開！",
             "date": "2021-01-08T09:00:08Z",
             "like": "25038",
-            "view": "1567085",
+            "view": "1567129",
             "comment": "457",
             "listType": 0,
             "lastPostedView": 1560027
@@ -4792,7 +4825,7 @@
             "title": "『ハッピーシンセサイザ』3DMVゲームサイズ公開！",
             "date": "2021-01-06T09:00:17Z",
             "like": "15118",
-            "view": "1299514",
+            "view": "1299537",
             "comment": "482",
             "listType": 0,
             "lastPostedView": 1290039
@@ -4825,7 +4858,7 @@
             "title": "『チュルリラ・チュルリラ・ダッダッダ！』3DMVゲームサイズ公開！",
             "date": "2021-01-03T06:00:11Z",
             "like": "42977",
-            "view": "2713823",
+            "view": "2713863",
             "comment": "1716",
             "listType": 0,
             "lastPostedView": 2710000
@@ -4913,7 +4946,7 @@
             "title": "プロジェクトセカイ WEBラジオ『25時、ナイトラジオで。』#5",
             "date": "2020-12-26T16:00:11Z",
             "like": "4033",
-            "view": "129345",
+            "view": "129347",
             "comment": "145",
             "listType": 0,
             "lastPostedView": 121615
@@ -4924,7 +4957,7 @@
             "title": "『ロキ』3DMVゲームサイズ公開！",
             "date": "2020-12-25T09:00:43Z",
             "like": "9616",
-            "view": "773313",
+            "view": "773329",
             "comment": "224",
             "listType": 0,
             "lastPostedView": 770004
@@ -4946,7 +4979,7 @@
             "title": "『悔やむと書いてミライ』3DMVゲームサイズ公開！",
             "date": "2020-12-21T09:01:23Z",
             "like": "19569",
-            "view": "1161981",
+            "view": "1161999",
             "comment": "494",
             "listType": 0,
             "lastPostedView": 1160000
@@ -4957,7 +4990,7 @@
             "title": "ニジイロストーリーズ / ワンダーランズ×ショウタイム × MEIKO × KAITO",
             "date": "2020-12-20T06:12:09Z",
             "like": "27454",
-            "view": "1095025",
+            "view": "1095041",
             "comment": "789",
             "listType": 0,
             "lastPostedView": 1090007
@@ -4978,8 +5011,8 @@
             "link": "https://youtu.be/cFExVIRuGso",
             "title": "『セカイはまだ始まってすらいない』3DMVゲームサイズ公開！",
             "date": "2020-12-18T09:00:12Z",
-            "like": "32950",
-            "view": "2020518",
+            "like": "32951",
+            "view": "2020547",
             "comment": "1017",
             "listType": 0,
             "lastPostedView": 2020009
@@ -4989,8 +5022,8 @@
             "link": "https://youtu.be/cj3y6DBjyvs",
             "title": "『Ready Steady』3DMVゲームサイズ公開！",
             "date": "2020-12-16T09:00:05Z",
-            "like": "42237",
-            "view": "3070661",
+            "like": "42238",
+            "view": "3070707",
             "comment": "822",
             "listType": 0,
             "lastPostedView": 3070011
@@ -5001,7 +5034,7 @@
             "title": "『アイドル新鋭隊』3DMVゲームサイズ公開！",
             "date": "2020-12-14T09:00:01Z",
             "like": "19025",
-            "view": "1258161",
+            "view": "1258183",
             "comment": "586",
             "listType": 0,
             "lastPostedView": 1250006
@@ -5011,8 +5044,8 @@
             "link": "https://youtu.be/luujC_Y4Wsw",
             "title": "『独りんぼエンヴィー』3DMVゲームサイズ公開！",
             "date": "2020-12-14T06:00:36Z",
-            "like": "30583",
-            "view": "1723400",
+            "like": "30584",
+            "view": "1723441",
             "comment": "974",
             "listType": 0,
             "lastPostedView": 1720008
@@ -5045,7 +5078,7 @@
             "title": "『needLe』3DMVゲームサイズ公開！",
             "date": "2020-12-11T09:30:02Z",
             "like": "7789",
-            "view": "480332",
+            "view": "480341",
             "comment": "213",
             "listType": 0,
             "lastPostedView": 480005
@@ -5056,7 +5089,7 @@
             "title": "『Tell Your World』3DMVゲームサイズ公開！",
             "date": "2020-12-09T09:00:01Z",
             "like": "15705",
-            "view": "660385",
+            "view": "660408",
             "comment": "531",
             "listType": 0,
             "lastPostedView": 660002
@@ -5077,8 +5110,8 @@
             "link": "https://youtu.be/t7hnsVAsWCo",
             "title": "『Forward』3DMVゲームサイズ公開！",
             "date": "2020-12-08T13:06:24Z",
-            "like": "32554",
-            "view": "2096139",
+            "like": "32555",
+            "view": "2096175",
             "comment": "954",
             "listType": 0,
             "lastPostedView": 2090033
@@ -5089,7 +5122,7 @@
             "title": "『ワーワーワールド』3DMVゲームサイズ公開！",
             "date": "2020-12-07T09:00:03Z",
             "like": "22465",
-            "view": "1599093",
+            "view": "1599113",
             "comment": "896",
             "listType": 0,
             "lastPostedView": 1590002
@@ -5099,8 +5132,8 @@
             "link": "https://youtu.be/jxP2_vihhpM",
             "title": "『セカイ』3DMVゲームサイズ公開！",
             "date": "2020-12-04T09:00:46Z",
-            "like": "19840",
-            "view": "1016081",
+            "like": "19841",
+            "view": "1016097",
             "comment": "1000",
             "listType": 0,
             "lastPostedView": 1010010
@@ -5110,8 +5143,8 @@
             "link": "https://youtu.be/9kZ6MPqj9Tg",
             "title": "フラジール / Vivid BAD SQUAD",
             "date": "2020-12-03T09:00:14Z",
-            "like": "128577",
-            "view": "7709212",
+            "like": "128578",
+            "view": "7709302",
             "comment": "3307",
             "listType": 0,
             "lastPostedView": 7700061
@@ -5144,7 +5177,7 @@
             "title": "ボイスドラマ『アイドル活動、スタート』 ｜MORE MORE JUMP！",
             "date": "2020-11-29T03:00:07Z",
             "like": "11237",
-            "view": "194135",
+            "view": "194136",
             "comment": "745",
             "listType": 0,
             "lastPostedView": 190000
@@ -5155,7 +5188,7 @@
             "title": "プロジェクトセカイ  WEBラジオ『25時、ナイトラジオで。』#3",
             "date": "2020-11-28T16:00:14Z",
             "like": "4188",
-            "view": "136331",
+            "view": "136332",
             "comment": "161",
             "listType": 0,
             "lastPostedView": 130001
@@ -5166,7 +5199,7 @@
             "title": "「プロジェクトセカイ」3DMV『ウミユリ海底譚』一部公開！",
             "date": "2020-11-25T11:27:06Z",
             "like": "13233",
-            "view": "390026",
+            "view": "390035",
             "comment": "785",
             "listType": 0,
             "lastPostedView": 390000
@@ -5199,7 +5232,7 @@
             "title": "モア！ジャンプ！モア！ / MORE MORE JUMP！ × 初音ミク",
             "date": "2020-11-19T06:07:05Z",
             "like": "58216",
-            "view": "3083531",
+            "view": "3083546",
             "comment": "1814",
             "listType": 0,
             "lastPostedView": 3080006
@@ -5210,7 +5243,7 @@
             "title": "『モア！ジャンプ！モア！』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-11-18T09:00:04Z",
             "like": "5480",
-            "view": "157795",
+            "view": "157796",
             "comment": "379",
             "listType": 0,
             "lastPostedView": 157238
@@ -5220,8 +5253,8 @@
             "link": "https://youtu.be/AL6hWKN0WQo",
             "title": "ステラ / Leo/need × 初音ミク",
             "date": "2020-11-16T10:06:28Z",
-            "like": "88648",
-            "view": "4456140",
+            "like": "88649",
+            "view": "4456206",
             "comment": "3450",
             "listType": 0,
             "lastPostedView": 4450007
@@ -5265,7 +5298,7 @@
             "title": "「プロジェクトセカイ」3DMV『potatoになっていく』一部公開！",
             "date": "2020-11-07T13:06:29Z",
             "like": "15262",
-            "view": "476360",
+            "view": "476364",
             "comment": "808",
             "listType": 0,
             "lastPostedView": 470000
@@ -5275,8 +5308,8 @@
             "link": "https://youtu.be/kU4Rth300FM",
             "title": "ミラクルペイント / ワンダーランズ×ショウタイム × 初音ミク",
             "date": "2020-11-02T09:00:02Z",
-            "like": "64955",
-            "view": "3961191",
+            "like": "64956",
+            "view": "3961207",
             "comment": "2528",
             "listType": 0,
             "lastPostedView": 3960006
@@ -5287,7 +5320,7 @@
             "title": "プロジェクトセカイ  WEBラジオ『25時、ナイトラジオで。』#1",
             "date": "2020-10-31T16:00:13Z",
             "like": "11580",
-            "view": "297650",
+            "view": "297653",
             "comment": "326",
             "listType": 0,
             "lastPostedView": 290000
@@ -5298,7 +5331,7 @@
             "title": "『乙女解剖』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-10-31T09:00:02Z",
             "like": "6170",
-            "view": "184660",
+            "view": "184661",
             "comment": "493",
             "listType": 0,
             "lastPostedView": 183322
@@ -5309,7 +5342,7 @@
             "title": "「プロジェクトセカイ」3DMV『メルティランドナイトメア』一部公開！",
             "date": "2020-10-25T02:00:01Z",
             "like": "3899",
-            "view": "175302",
+            "view": "175304",
             "comment": "200",
             "listType": 0,
             "lastPostedView": 170000
@@ -5331,7 +5364,7 @@
             "title": "「プロジェクトセカイ」ゲームPV公開中！",
             "date": "2020-10-21T05:03:21Z",
             "like": "9427",
-            "view": "485684",
+            "view": "485698",
             "comment": "409",
             "listType": 0,
             "lastPostedView": 480004
@@ -5342,7 +5375,7 @@
             "title": "『ジャックポットサッドガール』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-10-19T09:02:10Z",
             "like": "4559",
-            "view": "179877",
+            "view": "179878",
             "comment": "201",
             "listType": 0,
             "lastPostedView": 177907
@@ -5364,7 +5397,7 @@
             "title": "「プロジェクトセカイ」3DMV『ステラ』一部公開！",
             "date": "2020-10-18T13:09:33Z",
             "like": "5405",
-            "view": "191346",
+            "view": "191348",
             "comment": "306",
             "listType": 0,
             "lastPostedView": 190000
@@ -5408,7 +5441,7 @@
             "title": "携帯恋話 / 25時、ナイトコードで。 × 初音ミク",
             "date": "2020-10-15T06:11:16Z",
             "like": "76409",
-            "view": "3767823",
+            "view": "3767879",
             "comment": "1592",
             "listType": 0,
             "lastPostedView": 3760023
@@ -5419,7 +5452,7 @@
             "title": "『携帯恋話』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-10-14T09:00:41Z",
             "like": "3970",
-            "view": "112802",
+            "view": "112803",
             "comment": "306",
             "listType": 0,
             "lastPostedView": 111718
@@ -5462,8 +5495,8 @@
             "link": "https://youtu.be/zAkqd6iw-lo",
             "title": "ビバハピ / MORE MORE JUMP！ × 初音ミク",
             "date": "2020-10-11T06:00:02Z",
-            "like": "39489",
-            "view": "1634132",
+            "like": "39491",
+            "view": "1634148",
             "comment": "898",
             "listType": 0,
             "lastPostedView": 1630006
@@ -5507,7 +5540,7 @@
             "title": "『Hand in Hand』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-10-07T09:00:11Z",
             "like": "2662",
-            "view": "90489",
+            "view": "90490",
             "comment": "192",
             "listType": 0,
             "lastPostedView": 90000
@@ -5518,7 +5551,7 @@
             "title": "『ダンスロボットダンス』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-10-06T09:01:26Z",
             "like": "3768",
-            "view": "145906",
+            "view": "145907",
             "comment": "309",
             "listType": 0,
             "lastPostedView": 144675
@@ -5529,7 +5562,7 @@
             "title": "「プロジェクトセカイ」3DMV『ダンスロボットダンス』一部公開！",
             "date": "2020-10-06T09:01:23Z",
             "like": "9509",
-            "view": "301442",
+            "view": "301444",
             "comment": "557",
             "listType": 0,
             "lastPostedView": 300000
@@ -5540,7 +5573,7 @@
             "title": "『ワールドイズマイン』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-10-05T09:00:11Z",
             "like": "3473",
-            "view": "121670",
+            "view": "121671",
             "comment": "297",
             "listType": 0,
             "lastPostedView": 120628
@@ -5551,7 +5584,7 @@
             "title": "『命に嫌われている』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-10-04T09:00:03Z",
             "like": "3773",
-            "view": "130875",
+            "view": "130876",
             "comment": "224",
             "listType": 0,
             "lastPostedView": 130000
@@ -5562,7 +5595,7 @@
             "title": "『脱法ロック』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-10-03T09:00:08Z",
             "like": "4088",
-            "view": "166487",
+            "view": "166488",
             "comment": "338",
             "listType": 0,
             "lastPostedView": 163757
@@ -5573,7 +5606,7 @@
             "title": "Just Be Friends / バーチャル・シンガーver.（巡音ルカ）",
             "date": "2020-10-03T06:49:46Z",
             "like": "32992",
-            "view": "909364",
+            "view": "909373",
             "comment": "521",
             "listType": 0,
             "lastPostedView": 900005
@@ -5595,7 +5628,7 @@
             "title": "プロジェクトセカイ リリース記念発表会",
             "date": "2020-10-02T12:18:42Z",
             "like": "4041",
-            "view": "185067",
+            "view": "185068",
             "comment": "160",
             "listType": 0,
             "lastPostedView": 180416
@@ -5639,7 +5672,7 @@
             "title": "「プロジェクトセカイ」3DMV『ニア』一部公開！",
             "date": "2020-10-01T09:00:15Z",
             "like": "2926",
-            "view": "136724",
+            "view": "136725",
             "comment": "98",
             "listType": 0,
             "lastPostedView": 131420
@@ -5650,7 +5683,7 @@
             "title": "『アスノヨゾラ哨戒班』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-09-30T09:00:05Z",
             "like": "2941",
-            "view": "132059",
+            "view": "132060",
             "comment": "303",
             "listType": 0,
             "lastPostedView": 130000
@@ -5661,7 +5694,7 @@
             "title": "『セカイ』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-09-29T09:00:26Z",
             "like": "1689",
-            "view": "57854",
+            "view": "57855",
             "comment": "161",
             "listType": 0,
             "lastPostedView": 56888
@@ -5683,7 +5716,7 @@
             "title": "『ワーワーワールド』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-09-28T09:00:08Z",
             "like": "1343",
-            "view": "48973",
+            "view": "48974",
             "comment": "95",
             "listType": 0,
             "lastPostedView": 48110
@@ -5694,7 +5727,7 @@
             "title": "「プロジェクトセカイ」3DMV『ワーワーワールド』一部公開！",
             "date": "2020-09-28T09:00:05Z",
             "like": "5993",
-            "view": "222141",
+            "view": "222143",
             "comment": "254",
             "listType": 0,
             "lastPostedView": 220000
@@ -5705,7 +5738,7 @@
             "title": "『初音ミクの消失』（難易度：MASTER）プレイ動画を一部先行公開！",
             "date": "2020-09-27T09:00:10Z",
             "like": "30475",
-            "view": "1810719",
+            "view": "1810727",
             "comment": "4480",
             "listType": 0,
             "lastPostedView": 1810001
@@ -5716,7 +5749,7 @@
             "title": "『初音ミクの消失』（難易度：NORMAL）プレイ動画を一部先行公開！",
             "date": "2020-09-27T09:00:10Z",
             "like": "2316",
-            "view": "114237",
+            "view": "114239",
             "comment": "202",
             "listType": 0,
             "lastPostedView": 111558
@@ -5726,8 +5759,8 @@
             "link": "https://youtu.be/wNxrGUf6G0A",
             "title": "命に嫌われている。 / アナザーver. by 宵崎奏（25時、ナイトコードで。）",
             "date": "2020-09-26T12:00:06Z",
-            "like": "61466",
-            "view": "3329904",
+            "like": "61467",
+            "view": "3329997",
             "comment": "1003",
             "listType": 0,
             "lastPostedView": 3320055
@@ -5737,8 +5770,8 @@
             "link": "https://youtu.be/F7iqxHOth58",
             "title": "命に嫌われている。 / 25時、ナイトコードで。 × 初音ミク",
             "date": "2020-09-26T12:00:02Z",
-            "like": "94027",
-            "view": "3566620",
+            "like": "94028",
+            "view": "3566652",
             "comment": "1799",
             "listType": 0,
             "lastPostedView": 3560021
@@ -5749,7 +5782,7 @@
             "title": "『フラジール』（難易度：EXPERT）プレイ動画を一部先行公開！",
             "date": "2020-09-26T11:54:53Z",
             "like": "2824",
-            "view": "131701",
+            "view": "131702",
             "comment": "179",
             "listType": 0,
             "lastPostedView": 130001
@@ -5815,7 +5848,7 @@
             "title": "「プロジェクトセカイ」3DMV『Ready Steady』一部公開！",
             "date": "2020-09-23T09:00:03Z",
             "like": "16304",
-            "view": "586037",
+            "view": "586040",
             "comment": "653",
             "listType": 0,
             "lastPostedView": 580000
@@ -5826,7 +5859,7 @@
             "title": "『アイドル新鋭隊』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-09-22T09:00:02Z",
             "like": "1626",
-            "view": "56122",
+            "view": "56123",
             "comment": "80",
             "listType": 0,
             "lastPostedView": 55166
@@ -5848,7 +5881,7 @@
             "title": "『シャルル』（難易度：NORMAL）プレイ動画を一部先行公開！",
             "date": "2020-09-20T09:00:09Z",
             "like": "2244",
-            "view": "93826",
+            "view": "93828",
             "comment": "137",
             "listType": 0,
             "lastPostedView": 92405
@@ -5870,7 +5903,7 @@
             "title": "『ぼうけんのしょがきえました！』（難易度：MASTER）プレイ動画を一部先行公開！",
             "date": "2020-09-18T09:00:09Z",
             "like": "5722",
-            "view": "319412",
+            "view": "319417",
             "comment": "542",
             "listType": 0,
             "lastPostedView": 312030
@@ -5881,7 +5914,7 @@
             "title": "『ぼうけんのしょがきえました！』（難易度：EASY）プレイ動画を一部先行公開！",
             "date": "2020-09-18T09:00:08Z",
             "like": "1335",
-            "view": "61135",
+            "view": "61136",
             "comment": "78",
             "listType": 0,
             "lastPostedView": 60000
@@ -5892,7 +5925,7 @@
             "title": "『ハロ／ハワユ』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-09-17T09:00:08Z",
             "like": "2579",
-            "view": "100194",
+            "view": "100196",
             "comment": "192",
             "listType": 0,
             "lastPostedView": 100000
@@ -5903,7 +5936,7 @@
             "title": "「プロジェクトセカイ」3DMV『セカイはまだ始まってすらいない』一部公開！",
             "date": "2020-09-16T09:00:03Z",
             "like": "8507",
-            "view": "385472",
+            "view": "385474",
             "comment": "551",
             "listType": 0,
             "lastPostedView": 380000
@@ -5914,7 +5947,7 @@
             "title": "『ドクター＝ファンクビート』（難易度：HARD）プレイ動画を一部先行公開！",
             "date": "2020-09-15T09:00:20Z",
             "like": "2180",
-            "view": "99711",
+            "view": "99712",
             "comment": "124",
             "listType": 0,
             "lastPostedView": 97591
@@ -5980,7 +6013,7 @@
             "title": "「プロジェクトセカイ」3DMV『アイドル新鋭隊』一部公開！",
             "date": "2020-09-09T09:00:04Z",
             "like": "8419",
-            "view": "335563",
+            "view": "335564",
             "comment": "466",
             "listType": 0,
             "lastPostedView": 330000
@@ -6013,7 +6046,7 @@
             "title": "【プロジェクトセカイ】#中島由貴を超えろ 『ヒバナ -Reloaded-』プレイ動画",
             "date": "2020-09-03T09:00:51Z",
             "like": "13249",
-            "view": "774150",
+            "view": "774151",
             "comment": "808",
             "listType": 0,
             "lastPostedView": 770001
@@ -6024,7 +6057,7 @@
             "title": "「プロジェクトセカイ」3DMV『テオ』一部公開！",
             "date": "2020-09-02T09:00:16Z",
             "like": "6692",
-            "view": "297372",
+            "view": "297375",
             "comment": "285",
             "listType": 0,
             "lastPostedView": 291726
@@ -6035,7 +6068,7 @@
             "title": "「プロジェクトセカイ」3DMV『ブリキノダンス』一部公開！",
             "date": "2020-08-26T09:00:14Z",
             "like": "15147",
-            "view": "634616",
+            "view": "634618",
             "comment": "645",
             "listType": 0,
             "lastPostedView": 630000
@@ -6068,7 +6101,7 @@
             "title": "「プロジェクトセカイ」バーチャルライブ機能公開！",
             "date": "2020-08-24T11:20:57Z",
             "like": "2800",
-            "view": "79238",
+            "view": "79240",
             "comment": "140",
             "listType": 0,
             "lastPostedView": 76714
@@ -6079,7 +6112,7 @@
             "title": "「プロジェクトセカイ」3DMV『悔やむと書いてミライ』一部公開！",
             "date": "2020-08-19T09:00:03Z",
             "like": "8246",
-            "view": "291551",
+            "view": "291554",
             "comment": "279",
             "listType": 0,
             "lastPostedView": 290000
@@ -6101,7 +6134,7 @@
             "title": "「プロジェクトセカイ」3DMV『シャルル』一部公開！",
             "date": "2020-07-22T11:38:41Z",
             "like": "11511",
-            "view": "593701",
+            "view": "593702",
             "comment": "415",
             "listType": 0,
             "lastPostedView": 590000
@@ -6112,7 +6145,7 @@
             "title": "「プロジェクトセカイ」3DMV『フラジール』一部公開！",
             "date": "2020-07-22T11:36:47Z",
             "like": "21407",
-            "view": "813977",
+            "view": "813978",
             "comment": "978",
             "listType": 0,
             "lastPostedView": 810001
@@ -6122,8 +6155,8 @@
             "link": "https://youtu.be/8TghOw3v61k",
             "title": "月光 / キタニタツヤ × はるまきごはん - Moonlight / Tatsuya Kitani × Harumakigohan",
             "date": "2022-06-01T10:00:10Z",
-            "like": "45860",
-            "view": "1200398",
+            "like": "45864",
+            "view": "1200715",
             "comment": "582",
             "listType": 1,
             "lastPostedView": 1200398
@@ -6133,8 +6166,8 @@
             "link": "https://youtu.be/gtYydJJtQdg",
             "title": "Awake Now / 雄之助 feat. 初音ミク【Music Video】",
             "date": "2022-05-31T10:00:19Z",
-            "like": "26945",
-            "view": "552166",
+            "like": "26946",
+            "view": "552355",
             "comment": "343",
             "listType": 1,
             "lastPostedView": 550036
@@ -6144,8 +6177,8 @@
             "link": "https://youtu.be/Xt1x1s2eAno",
             "title": "月詠み『イフ』Music Video",
             "date": "2022-05-08T13:05:00Z",
-            "like": "42891",
-            "view": "2762913",
+            "like": "42893",
+            "view": "2763115",
             "comment": "534",
             "listType": 1,
             "lastPostedView": 2760071
@@ -6155,8 +6188,8 @@
             "link": "https://youtu.be/sHXrqptOU2s",
             "title": "オーダーメイド　/  feat. VOCALOIDs",
             "date": "2022-04-28T14:00:11Z",
-            "like": "35850",
-            "view": "660858",
+            "like": "35852",
+            "view": "660905",
             "comment": "1023",
             "listType": 1,
             "lastPostedView": 660005
@@ -6167,7 +6200,7 @@
             "title": "88☆彡 / まらしぃ × 堀江晶太(kemu)  feat.初音ミク（Hatsune Miku）× KAITO",
             "date": "2022-04-20T10:00:13Z",
             "like": "67354",
-            "view": "1555748",
+            "view": "1555842",
             "comment": "1488",
             "listType": 1,
             "lastPostedView": 1550033
@@ -6177,8 +6210,8 @@
             "link": "https://youtu.be/mKfwzOgorXs",
             "title": "ノマド／flower",
             "date": "2022-03-28T13:15:05Z",
-            "like": "59879",
-            "view": "2112637",
+            "like": "59880",
+            "view": "2112759",
             "comment": "1183",
             "listType": 1,
             "lastPostedView": 2110035
@@ -6189,7 +6222,7 @@
             "title": "メタモリボン｜鏡音リン",
             "date": "2022-03-18T13:30:10Z",
             "like": "12822",
-            "view": "283596",
+            "view": "283607",
             "comment": "286",
             "listType": 1,
             "lastPostedView": 280001
@@ -6199,8 +6232,8 @@
             "link": "https://youtu.be/BPh4m2VnfNo",
             "title": "∴flower『トリコロージュ』- Tricologe / 煮ル果実【Official】",
             "date": "2022-02-26T10:10:20Z",
-            "like": "49910",
-            "view": "1451183",
+            "like": "49911",
+            "view": "1451268",
             "comment": "901",
             "listType": 1,
             "lastPostedView": 1450014
@@ -6210,8 +6243,8 @@
             "link": "https://youtu.be/nfpYhYtHuKo",
             "title": "Chinozo「Flyer! 」feat.FloweR",
             "date": "2022-02-16T13:15:12Z",
-            "like": "72227",
-            "view": "2396092",
+            "like": "72228",
+            "view": "2396153",
             "comment": "1728",
             "listType": 1,
             "lastPostedView": 2390008
@@ -6221,8 +6254,8 @@
             "link": "https://youtu.be/C_Fc1x_aeFQ",
             "title": "【鏡音リンレン】にっこり^^調査隊のテーマ【ワンオポ/OriginalMV】/ Niccori^^ Survey Team Theme",
             "date": "2022-01-19T13:30:06Z",
-            "like": "109843",
-            "view": "4610527",
+            "like": "109844",
+            "view": "4610654",
             "comment": "1418",
             "listType": 1,
             "lastPostedView": 4610028
@@ -6232,8 +6265,8 @@
             "link": "https://youtu.be/zTokBPAXHW4",
             "title": "ミライ／初音ミク　mirai/hatsune miku",
             "date": "2021-12-29T13:30:10Z",
-            "like": "17100",
-            "view": "345446",
+            "like": "17101",
+            "view": "345455",
             "comment": "367",
             "listType": 1,
             "lastPostedView": 340001
@@ -6244,7 +6277,7 @@
             "title": "STAGE OF SEKAI / HarryP feat. 初音ミク (Official Music Video)",
             "date": "2021-12-22T11:00:30Z",
             "like": "24502",
-            "view": "690214",
+            "view": "690245",
             "comment": "487",
             "listType": 1,
             "lastPostedView": 690008
@@ -6255,7 +6288,7 @@
             "title": "ワールドワイドワンダー feat.初音ミク / TOKOTOKO（西沢さんP）",
             "date": "2021-12-18T13:15:09Z",
             "like": "33500",
-            "view": "674856",
+            "view": "674876",
             "comment": "537",
             "listType": 1,
             "lastPostedView": 670006
@@ -6265,8 +6298,8 @@
             "link": "https://youtu.be/3sEptl-psU0",
             "title": "ロウワー / Flower - Lower one's eyes",
             "date": "2021-11-11T11:00:12Z",
-            "like": "261231",
-            "view": "13165015",
+            "like": "261242",
+            "view": "13165683",
             "comment": "4355",
             "listType": 1,
             "lastPostedView": 13160276
@@ -6276,8 +6309,8 @@
             "link": "https://youtu.be/uDBVetc5JKo",
             "title": "ショウタイム・ルーラー/鏡音リン(曲:カラスヤサボウ)",
             "date": "2021-10-29T14:34:57Z",
-            "like": "63638",
-            "view": "1896923",
+            "like": "63639",
+            "view": "1896948",
             "comment": "795",
             "listType": 1,
             "lastPostedView": 1890031
@@ -6287,8 +6320,8 @@
             "link": "https://youtu.be/UgZFpO_Y6qo",
             "title": "[Official] マシンガンポエムドール(from プロジェクトセカイ)/ cosMo＠暴走P feat. 初音ミク",
             "date": "2021-10-03T07:00:12Z",
-            "like": "138933",
-            "view": "7777876",
+            "like": "138937",
+            "view": "7778023",
             "comment": "5017",
             "listType": 1,
             "lastPostedView": 7770038
@@ -6298,8 +6331,8 @@
             "link": "https://youtu.be/sgZjbk9eH6g",
             "title": "群青讃歌 - Eve MV",
             "date": "2021-09-30T09:00:13Z",
-            "like": "432611",
-            "view": "16164272",
+            "like": "432613",
+            "view": "16164503",
             "comment": "9721",
             "listType": 1,
             "lastPostedView": 16160002
@@ -6310,7 +6343,7 @@
             "title": "ピコン - 再生  ft. 初音ミク",
             "date": "2021-09-29T13:15:45Z",
             "like": "46299",
-            "view": "1314371",
+            "view": "1314401",
             "comment": "1550",
             "listType": 1,
             "lastPostedView": 1310027
@@ -6321,7 +6354,7 @@
             "title": "【プロセカ】*Luna - 流星のパルス (Pulse of The Meteor) feat.Kagamine Len",
             "date": "2021-09-19T14:15:10Z",
             "like": "37689",
-            "view": "1315710",
+            "view": "1315745",
             "comment": "898",
             "listType": 1,
             "lastPostedView": 1310001
@@ -6331,8 +6364,8 @@
             "link": "https://youtu.be/Y-QhzXC9NbI",
             "title": "Glory Steady Go!／キノシタ feat.初音ミク",
             "date": "2021-08-29T13:30:14Z",
-            "like": "43431",
-            "view": "1042529",
+            "like": "43432",
+            "view": "1042554",
             "comment": "1324",
             "listType": 1,
             "lastPostedView": 1040007
@@ -6343,7 +6376,7 @@
             "title": "アイスドロップ feat. 初音ミク / aqu3ra",
             "date": "2021-08-18T13:30:12Z",
             "like": "48238",
-            "view": "1555061",
+            "view": "1555088",
             "comment": "1126",
             "listType": 1,
             "lastPostedView": 1550006
@@ -6353,8 +6386,8 @@
             "link": "https://youtu.be/mMiLWxuffdQ",
             "title": "フロムトーキョー / 初音ミク - Music Video (From Tokyo / Hatsune Miku)",
             "date": "2021-07-23T10:00:17Z",
-            "like": "72518",
-            "view": "2732531",
+            "like": "72519",
+            "view": "2732570",
             "comment": "1536",
             "listType": 1,
             "lastPostedView": 2730005
@@ -6365,7 +6398,7 @@
             "title": "Beat Eater - ポリスピカデリー feat. 初音ミク / Police Piccadilly",
             "date": "2021-07-18T13:15:03Z",
             "like": "66610",
-            "view": "2630833",
+            "view": "2630888",
             "comment": "972",
             "listType": 1,
             "lastPostedView": 2630011
@@ -6376,7 +6409,7 @@
             "title": "『トンデモワンダーズ』feat.初音ミク (+KAITO)  / sasakure.‌UK",
             "date": "2021-06-19T13:29:46Z",
             "like": "239359",
-            "view": "13228819",
+            "view": "13229008",
             "comment": "4774",
             "listType": 1,
             "lastPostedView": 13220029
@@ -6387,7 +6420,7 @@
             "title": "アイノマテリアル／Junky feat.初音ミク,鏡音リン【MV】",
             "date": "2021-05-29T13:30:03Z",
             "like": "17347",
-            "view": "499643",
+            "view": "499646",
             "comment": "358",
             "listType": 1,
             "lastPostedView": 490005
@@ -6397,8 +6430,8 @@
             "link": "https://youtu.be/EEbWRjavSVw",
             "title": "シネマ / 初音ミク",
             "date": "2021-05-08T13:30:01Z",
-            "like": "205066",
-            "view": "10680419",
+            "like": "205068",
+            "view": "10680565",
             "comment": "5926",
             "listType": 1,
             "lastPostedView": 10680014
@@ -6408,8 +6441,8 @@
             "link": "https://youtu.be/X_6EPkvIAGg",
             "title": "とあ - アイディスマイル - ft.初音ミク, 鏡音リン ( Toa - IDSMILE -  ft.Hatsune Miku, Kagamine Rin )",
             "date": "2021-05-01T16:00:15Z",
-            "like": "90823",
-            "view": "4259856",
+            "like": "90826",
+            "view": "4259909",
             "comment": "2642",
             "listType": 1,
             "lastPostedView": 4250028
@@ -6420,7 +6453,7 @@
             "title": "「１」／164 feat.巡音ルカ",
             "date": "2021-04-21T10:00:30Z",
             "like": "24242",
-            "view": "753231",
+            "view": "753238",
             "comment": "572",
             "listType": 1,
             "lastPostedView": 750004
@@ -6431,7 +6464,7 @@
             "title": "天使のクローバー ／ DIVELA feat.鏡音リン",
             "date": "2021-03-30T13:30:04Z",
             "like": "51809",
-            "view": "2508193",
+            "view": "2508222",
             "comment": "1259",
             "listType": 1,
             "lastPostedView": 2500051
@@ -6441,8 +6474,8 @@
             "link": "https://youtu.be/S84mvlha5Fc",
             "title": "ワンスアポンアドリーム YASUHIRO(康寛) feat.鏡音リン",
             "date": "2021-03-08T12:30:03Z",
-            "like": "20125",
-            "view": "540031",
+            "like": "20126",
+            "view": "540038",
             "comment": "330",
             "listType": 1,
             "lastPostedView": 540000
@@ -6453,7 +6486,7 @@
             "title": "限りなく灰色へ / すりぃ feat.鏡音レン",
             "date": "2021-02-26T13:15:16Z",
             "like": "178922",
-            "view": "10844414",
+            "view": "10844582",
             "comment": "4061",
             "listType": 1,
             "lastPostedView": 10840020
@@ -6464,7 +6497,7 @@
             "title": "初音ミク「Color of Drops」",
             "date": "2021-01-29T13:30:09Z",
             "like": "63408",
-            "view": "1784080",
+            "view": "1784101",
             "comment": "1411",
             "listType": 1,
             "lastPostedView": 1780006
@@ -6474,8 +6507,8 @@
             "link": "https://youtu.be/wvlUWjqGQSA",
             "title": "Orangestar - 霽れを待つ (feat. 初音ミク) Official Video",
             "date": "2021-01-10T07:23:48Z",
-            "like": "89956",
-            "view": "4379745",
+            "like": "89957",
+            "view": "4379818",
             "comment": "4272",
             "listType": 1,
             "lastPostedView": 4370027
@@ -6486,7 +6519,7 @@
             "title": "ニジイロストーリーズ (VOCALOID ver.)  - OSTER project",
             "date": "2020-12-20T09:00:10Z",
             "like": "17731",
-            "view": "485144",
+            "view": "485148",
             "comment": "364",
             "listType": 1,
             "lastPostedView": 480001
@@ -6497,7 +6530,7 @@
             "title": "Forward/R Sound Design feat. 初音ミク",
             "date": "2020-12-11T10:00:12Z",
             "like": "34411",
-            "view": "1311924",
+            "view": "1311932",
             "comment": "768",
             "listType": 1,
             "lastPostedView": 1310008
@@ -6507,8 +6540,8 @@
             "link": "https://youtu.be/B2llCEKbxwA",
             "title": "【初音ミク】ジャックポットサッドガール【syudou】",
             "date": "2020-10-24T10:00:10Z",
-            "like": "127701",
-            "view": "6541743",
+            "like": "127702",
+            "view": "6541779",
             "comment": "3369",
             "listType": 1,
             "lastPostedView": 6540032
@@ -6519,7 +6552,7 @@
             "title": "Giga - 'Ready Steady' ft. 初音ミク・鏡音リン・鏡音レン【MV】",
             "date": "2020-09-30T10:00:11Z",
             "like": "248017",
-            "view": "11879285",
+            "view": "11879472",
             "comment": "5315",
             "listType": 1,
             "lastPostedView": 11870005
@@ -6530,7 +6563,7 @@
             "title": "Mitchie M - アイドル新鋭隊 feat.初音ミク, 鏡音リン, 巡音ルカ, MEIKO [プロジェクトセカイ ユニット曲]",
             "date": "2020-09-09T09:00:11Z",
             "like": "101849",
-            "view": "3244442",
+            "view": "3244493",
             "comment": "5533",
             "listType": 1,
             "lastPostedView": 3240006
@@ -6541,7 +6574,7 @@
             "title": "DECO*27 - needLe feat. 初音ミク",
             "date": "2020-08-14T10:00:10Z",
             "like": "70033",
-            "view": "2928043",
+            "view": "2928065",
             "comment": "1871",
             "listType": 1,
             "lastPostedView": 2920004
@@ -6551,8 +6584,8 @@
             "link": "https://youtu.be/okJ9Vk6owG8",
             "title": "Giga × Mitchie M - ワーワーワールド feat. 初音ミク&鏡音リン（プロジェクトセカイ テーマ曲）",
             "date": "2020-08-05T10:00:12Z",
-            "like": "104151",
-            "view": "3358217",
+            "like": "104152",
+            "view": "3358239",
             "comment": "4841",
             "listType": 1,
             "lastPostedView": 3350017
@@ -6563,7 +6596,7 @@
             "title": "DECO*27×堀江晶太(kemu) - セカイ feat. 初音ミク",
             "date": "2020-07-31T10:00:02Z",
             "like": "100186",
-            "view": "5315536",
+            "view": "5315578",
             "comment": "2989",
             "listType": 1,
             "lastPostedView": 5310008
@@ -6574,7 +6607,7 @@
             "title": "【MV】携帯恋話／まふまふ",
             "date": "2020-05-23T09:00:28Z",
             "like": "121396",
-            "view": "9684995",
+            "view": "9685042",
             "comment": "3913",
             "listType": 1,
             "lastPostedView": 9680020
@@ -6585,7 +6618,7 @@
             "title": "【MV】悔やむと書いてミライ／まふまふ",
             "date": "2020-04-23T09:00:32Z",
             "like": "133126",
-            "view": "8975609",
+            "view": "8975648",
             "comment": "4347",
             "listType": 1,
             "lastPostedView": 8970010
@@ -6595,8 +6628,8 @@
             "link": "https://youtu.be/1s8NNPgdl5g",
             "title": "ピノキオピー - セカイはまだ始まってすらいない feat. 初音ミク / The World Hasn’t Even Started Yet",
             "date": "2020-04-17T10:00:02Z",
-            "like": "91003",
-            "view": "4762520",
+            "like": "91005",
+            "view": "4762573",
             "comment": "2964",
             "listType": 1,
             "lastPostedView": 4760029
@@ -6607,7 +6640,7 @@
             "title": "Neru - potatoになっていく (Becoming Potatoes) feat. Kagamine Rin & Kagamine Len",
             "date": "2020-03-30T09:00:09Z",
             "like": "154676",
-            "view": "11106739",
+            "view": "11106864",
             "comment": "4291",
             "listType": 1,
             "lastPostedView": 11100168
@@ -6617,8 +6650,8 @@
             "link": "https://youtu.be/y7RfoyBJxCg",
             "title": "alive / 市瀬るぽ feat.鏡音リン",
             "date": "2020-09-30T11:00:12Z",
-            "like": "23092",
-            "view": "616983",
+            "like": "23093",
+            "view": "616990",
             "comment": "663",
             "listType": 2,
             "lastPostedView": 610004
@@ -6629,7 +6662,7 @@
             "title": "irucaice - Brand New Day feat. Hatsune Miku",
             "date": "2020-11-30T07:30:11Z",
             "like": "39333",
-            "view": "1795861",
+            "view": "1795891",
             "comment": "1322",
             "listType": 2,
             "lastPostedView": 1790003
@@ -6639,8 +6672,8 @@
             "link": "https://youtu.be/gmIcg1EHIac",
             "title": "花を唄う / シノfeat.初音ミク",
             "date": "2021-01-28T10:00:14Z",
-            "like": "64965",
-            "view": "2744316",
+            "like": "64966",
+            "view": "2744365",
             "comment": "1934",
             "listType": 2,
             "lastPostedView": 2740009
@@ -6651,7 +6684,7 @@
             "title": "泡沫未来 / 初音ミク",
             "date": "2021-02-26T11:00:12Z",
             "like": "31876",
-            "view": "1102214",
+            "view": "1102227",
             "comment": "1048",
             "listType": 2,
             "lastPostedView": 1100000
@@ -6661,8 +6694,8 @@
             "link": "https://youtu.be/gfdzYIPjhBU",
             "title": "そうだった！！ / タケノコ少年 feat. 初音ミク",
             "date": "2021-04-25T10:00:17Z",
-            "like": "54996",
-            "view": "2158787",
+            "like": "54997",
+            "view": "2158803",
             "comment": "2468",
             "listType": 2,
             "lastPostedView": 2150003
@@ -6673,7 +6706,7 @@
             "title": "しっくおぶはうす！／鏡音リン・レン",
             "date": "2021-07-18T10:00:14Z",
             "like": "48336",
-            "view": "1364373",
+            "view": "1364387",
             "comment": "1619",
             "listType": 2,
             "lastPostedView": 1360025
@@ -6683,8 +6716,8 @@
             "link": "https://youtu.be/zAWu9BK_V5M",
             "title": "ラストスコア / せきこみごはん feat. 初音ミク",
             "date": "2021-08-31T10:00:24Z",
-            "like": "54210",
-            "view": "2006251",
+            "like": "54211",
+            "view": "2006334",
             "comment": "2600",
             "listType": 2,
             "lastPostedView": 2000031
@@ -6695,7 +6728,7 @@
             "title": "【KAITO V3】ジウダス/Judas【VOCALOIDオリジナル曲】",
             "date": "2021-11-27T10:00:01Z",
             "like": "19203",
-            "view": "478433",
+            "view": "478437",
             "comment": "539",
             "listType": 2,
             "lastPostedView": 470010
@@ -6705,8 +6738,8 @@
             "link": "https://youtu.be/0ahJ3_4hcL0",
             "title": "ONESELF / Twinfield feat. 初音ミク",
             "date": "2022-01-31T07:00:00Z",
-            "like": "42208",
-            "view": "1405511",
+            "like": "42210",
+            "view": "1405630",
             "comment": "1435",
             "listType": 2,
             "lastPostedView": 1400057
@@ -6717,7 +6750,7 @@
             "title": "未完成讃歌 / しゃいとfeat.初音ミク",
             "date": "2022-03-29T11:00:12Z",
             "like": "5947",
-            "view": "102952",
+            "view": "102957",
             "comment": "336",
             "listType": 2,
             "lastPostedView": 100005
